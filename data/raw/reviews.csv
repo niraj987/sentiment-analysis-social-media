@@ -1,0 +1,1201 @@
+review_id,platform,category,rating,sentiment,date,review_text
+REV01179,Amazon,Sports,1,negative,2023-08-01,Product is a complete scam. Nothing works as advertised. Ordered twice already.
+REV00866,Swiggy,Pizza,2,negative,2025-07-05,Horrible taste. Nothing like what was shown in the pictures.
+REV00102,Zomato,Indian,2,negative,2024-01-12,Terrible product. Stopped working after just 2 days of use. My family loves it.
+REV00440,Zomato,Burgers,1,negative,2024-01-06,Received a damaged item and customer support was useless.
+REV00059,Amazon,Clothing,4,neutral,2024-04-23,The product works fine but could be improved in some areas. Ordered twice already.
+REV01121,Swiggy,Continental,5,positive,2022-09-09,Best biryani I've ever had. Highly recommend this restaurant. My family loves it.
+REV00324,Swiggy,Chinese,5,positive,2022-04-14,5 stars! This is the best purchase I've made this year. Not worth the money at all.
+REV00975,Swiggy,Desserts,5,positive,2025-09-11,5 stars! This is the best purchase I've made this year. Highly recommend!
+REV00412,Amazon,Books,3,neutral,2023-08-20,"Food was average. Some items were tasty, some were not. Ordered twice already."
+REV00856,Zomato,Biryani,5,positive,2022-02-16,"Crispy, hot and fresh! The fries were amazing. Very disappointed with this."
+REV00821,Amazon,Clothing,2,negative,2023-02-18,Complete waste of money. The quality is very poor.
+REV00045,Swiggy,Pizza,5,positive,2023-02-23,Very happy with this purchase. The quality is top-notch. Will update after more use.
+REV00050,Swiggy,Indian,1,negative,2023-06-26,Never received my order. And no refund either. Scammers! Highly recommend!
+REV00850,Swiggy,Burgers,1,negative,2023-05-20,Returned the product but didn't get any refund for weeks. Could be much better.
+REV00241,Amazon,Books,5,positive,2024-07-08,"Good product, solid build quality, very happy with this purchase. Will update after more use."
+REV00171,Zomato,Continental,4,neutral,2023-11-25,Nothing extraordinary. Just a regular experience. Will update after more use.
+REV00524,Swiggy,Chinese,3,neutral,2022-07-25,The taste was fine but the presentation was disappointing. Highly recommend!
+REV00766,Swiggy,Chinese,1,negative,2022-01-20,The product broke on the very first use. Pathetic quality. Very disappointed with this.
+REV00839,Zomato,Continental,4,positive,2022-07-08,"The chicken was perfectly cooked, juicy and full of flavor. Will update after more use."
+REV00424,Swiggy,Burgers,5,positive,2023-12-08,Item was well packed and exactly as shown in the listing. Highly recommend!
+REV00381,Amazon,Books,2,neutral,2025-07-15,Middle of the road experience. Nothing special happened. Highly recommend!
+REV00610,Amazon,Books,4,positive,2024-02-18,Absolutely loved this product! Exceeded all my expectations. Very disappointed with this.
+REV00677,Swiggy,Biryani,1,negative,2023-02-26,Arrived 90 minutes late. By then the food was in a terrible state. Overall a good choice.
+REV00345,Zomato,Continental,4,positive,2024-06-23,Great value for money. Works as advertised. Could be much better.
+REV00110,Amazon,Home Appliances,5,positive,2024-08-27,Delivery was super quick and the packaging was excellent. Ordered twice already.
+REV00278,Swiggy,Biryani,5,positive,2025-10-28,Super fast delivery and the item is exactly as described. Overall a good choice.
+REV00678,Swiggy,Continental,2,negative,2025-08-17,Extremely salty food. Couldn't eat more than one bite. My family loves it.
+REV00571,Swiggy,Continental,5,positive,2022-04-26,Very impressed with the quality. Packaging was also very good. Ordered twice already.
+REV00359,Swiggy,Chinese,1,negative,2022-10-14,The product broke on the very first use. Pathetic quality.
+REV00599,Amazon,Clothing,1,negative,2024-09-29,Terrible product. Stopped working after just 2 days of use. Highly recommend!
+REV00391,Swiggy,Continental,3,neutral,2024-12-17,Product arrived in decent shape. Does what it says. Overall a good choice.
+REV00894,Swiggy,Continental,5,positive,2022-11-29,"The food was absolutely delicious, fresh and hot on arrival! Highly recommend!"
+REV00693,Amazon,Clothing,1,negative,2024-09-22,Worst purchase ever. Do not buy this garbage. Ordered twice already.
+REV00728,Amazon,Home Appliances,5,positive,2024-04-16,"Wow, just wow! The product blew my mind completely. Could be much better."
+REV00363,Zomato,Desserts,1,negative,2024-12-10,Never received my order. And no refund either. Scammers! My family loves it.
+REV00597,Swiggy,Biryani,5,positive,2023-10-10,Best biryani I've ever had. Highly recommend this restaurant. Highly recommend!
+REV00428,Zomato,Desserts,4,positive,2025-10-18,"Crispy, hot and fresh! The fries were amazing. Overall a good choice."
+REV00071,Amazon,Home Appliances,1,negative,2023-03-07,The product broke on the very first use. Pathetic quality. Will update after more use.
+REV00322,Amazon,Home Appliances,5,positive,2025-09-05,Loved the food quality. Perfect spice level and very fresh. Very disappointed with this.
+REV00653,Amazon,Home Appliances,1,negative,2024-09-10,Returned the product but didn't get any refund for weeks. Could be much better.
+REV01066,Swiggy,Chinese,5,positive,2023-06-18,Amazing quality for the price. Will definitely buy again! Very disappointed with this.
+REV00108,Swiggy,Biryani,4,positive,2025-02-11,Best biryani I've ever had. Highly recommend this restaurant. Very disappointed with this.
+REV01109,Amazon,Beauty,3,neutral,2022-07-22,Decent product overall. Would maybe try alternatives next time. Overall a good choice.
+REV00356,Swiggy,Continental,1,negative,2022-03-07,Received a damaged item and customer support was useless. Overall a good choice.
+REV00951,Zomato,Biryani,4,neutral,2022-07-05,Decent product overall. Would maybe try alternatives next time.
+REV00343,Amazon,Beauty,2,negative,2024-12-17,The food was burnt on one side and raw on the other. Shocking! Very disappointed with this.
+REV00355,Swiggy,Biryani,1,negative,2023-05-22,Product is a complete scam. Nothing works as advertised. Not worth the money at all.
+REV00024,Zomato,Continental,1,negative,2023-05-06,"The movie, the app, the everything — all terrible experience. Will update after more use."
+REV00044,Swiggy,Chinese,2,neutral,2025-06-22,Food quantity was okay but the quality could be better.
+REV00244,Amazon,Beauty,2,negative,2023-05-28,Seller is a fraud. Sent a fake product instead of the original. Highly recommend!
+REV00738,Zomato,Indian,4,positive,2024-02-27,Super fast delivery and the item is exactly as described.
+REV01136,Amazon,Books,5,positive,2024-01-02,10/10 product. Would strongly recommend to everyone. Ordered twice already.
+REV00368,Zomato,Desserts,1,negative,2022-05-30,The delivery took over 2 hours and the food was ice cold.
+REV00164,Zomato,Desserts,5,positive,2022-02-14,"The chicken was perfectly cooked, juicy and full of flavor. Will update after more use."
+REV01116,Zomato,Biryani,4,positive,2025-11-08,"Wow, just wow! The product blew my mind completely. Will update after more use."
+REV00333,Swiggy,Biryani,5,positive,2023-01-17,5 stars! This is the best purchase I've made this year. Will update after more use.
+REV00989,Amazon,Beauty,4,neutral,2025-12-21,Middle of the road experience. Nothing special happened. Overall a good choice.
+REV01173,Zomato,Desserts,2,negative,2022-07-25,Seller is a fraud. Sent a fake product instead of the original. My family loves it.
+REV01002,Zomato,Continental,1,negative,2025-08-19,Packaging was broken and everything was spilled. Very bad! Will update after more use.
+REV00378,Zomato,Desserts,3,neutral,2024-08-01,Works as described but the build feel is a bit cheap. Very disappointed with this.
+REV00310,Amazon,Books,3,neutral,2025-11-10,Mediocre experience. Expected more for this price. Will update after more use.
+REV00156,Swiggy,Continental,5,positive,2024-06-27,5 stars! This is the best purchase I've made this year. Overall a good choice.
+REV00211,Swiggy,Indian,1,negative,2023-02-23,Complete waste of money. The quality is very poor.
+REV00087,Zomato,Continental,4,positive,2025-01-07,"Good product, solid build quality, very happy with this purchase. My family loves it."
+REV00169,Zomato,Pizza,1,negative,2022-12-26,Product is a complete scam. Nothing works as advertised. My family loves it.
+REV00995,Zomato,Chinese,1,negative,2024-06-23,Worst purchase ever. Do not buy this garbage. Overall a good choice.
+REV00052,Swiggy,Continental,4,positive,2024-11-01,Fantastic service! The delivery executive was very polite. Will update after more use.
+REV00439,Swiggy,Chinese,5,positive,2022-12-08,10/10 product. Would strongly recommend to everyone. Could be much better.
+REV00550,Zomato,Indian,4,positive,2022-08-25,Best biryani I've ever had. Highly recommend this restaurant. Very disappointed with this.
+REV00491,Amazon,Clothing,1,negative,2024-08-24,Terrible product. Stopped working after just 2 days of use.
+REV00426,Amazon,Beauty,5,positive,2023-12-15,Fantastic service! The delivery executive was very polite. Very disappointed with this.
+REV00136,Zomato,Continental,4,positive,2022-03-17,"Wow, just wow! The product blew my mind completely. Could be much better."
+REV01192,Zomato,Desserts,5,positive,2022-09-28,No complaints at all. Everything was perfect from order to delivery. Ordered twice already.
+REV00055,Amazon,Sports,1,negative,2025-01-22,Never received my order. And no refund either. Scammers! Highly recommend!
+REV00079,Swiggy,Burgers,2,negative,2024-06-25,Disgusting! The food smelled awful and tasted even worse. Ordered twice already.
+REV00431,Swiggy,Burgers,1,negative,2024-07-09,Seller is a fraud. Sent a fake product instead of the original. Not worth the money at all.
+REV00185,Swiggy,Indian,5,positive,2022-10-24,Outstanding product. Works perfectly and looks great. Will update after more use.
+REV00057,Amazon,Sports,5,positive,2025-09-27,Amazing quality for the price. Will definitely buy again! Not worth the money at all.
+REV00943,Zomato,Continental,5,positive,2023-08-02,5 stars! This is the best purchase I've made this year. Highly recommend!
+REV00851,Zomato,Desserts,5,positive,2022-08-19,Great taste and generous portions. Will order again! Overall a good choice.
+REV01164,Zomato,Continental,5,positive,2024-10-01,Great taste and generous portions. Will order again!
+REV00219,Zomato,Continental,3,neutral,2022-06-06,The service was fine. The food was neither special nor bad. Highly recommend!
+REV00845,Amazon,Clothing,1,negative,2025-10-11,Packaging was broken and everything was spilled. Very bad!
+REV00114,Swiggy,Burgers,2,negative,2022-07-25,Found a hair in my food. Absolutely disgusting! Will update after more use.
+REV00549,Amazon,Home Appliances,4,positive,2023-02-13,"Good product, solid build quality, very happy with this purchase. Very disappointed with this."
+REV01019,Swiggy,Pizza,5,positive,2025-11-21,Super fast delivery and the item is exactly as described. My family loves it.
+REV01073,Amazon,Books,4,positive,2024-07-02,Great value for money. Works as advertised. Not worth the money at all.
+REV00175,Swiggy,Pizza,1,negative,2025-08-19,"The movie, the app, the everything — all terrible experience. Not worth the money at all."
+REV01023,Amazon,Beauty,4,positive,2025-06-21,Great value for money. Works as advertised. Overall a good choice.
+REV00616,Amazon,Electronics,1,negative,2022-08-15,"The movie, the app, the everything — all terrible experience. Overall a good choice."
+REV00514,Swiggy,Pizza,1,negative,2022-02-14,Returned the product but didn't get any refund for weeks. Overall a good choice.
+REV00462,Zomato,Pizza,4,positive,2024-02-01,Great taste and generous portions. Will order again! Overall a good choice.
+REV00287,Swiggy,Pizza,4,positive,2023-05-29,"Crispy, hot and fresh! The fries were amazing. Overall a good choice."
+REV00382,Amazon,Beauty,4,positive,2024-02-04,"Crispy, hot and fresh! The fries were amazing. Very disappointed with this."
+REV01008,Zomato,Desserts,5,positive,2022-11-02,10/10 product. Would strongly recommend to everyone. Could be much better.
+REV00671,Swiggy,Pizza,2,neutral,2023-05-08,Product arrived in decent shape. Does what it says. Very disappointed with this.
+REV00535,Swiggy,Desserts,1,negative,2022-09-18,The food was cold and stale when it arrived. Totally unacceptable. Will update after more use.
+REV00910,Zomato,Biryani,2,negative,2025-06-02,Customer service is non-existent. Absolute zero support. Highly recommend!
+REV00293,Swiggy,Biryani,3,neutral,2024-07-17,The taste was fine but the presentation was disappointing. Will update after more use.
+REV00124,Swiggy,Indian,1,negative,2022-01-06,The food was cold and stale when it arrived. Totally unacceptable. Highly recommend!
+REV00583,Amazon,Electronics,1,negative,2025-09-18,The food was burnt on one side and raw on the other. Shocking! Could be much better.
+REV00141,Swiggy,Chinese,3,neutral,2025-02-02,Got what I paid for. Quality matches the price I guess. Will update after more use.
+REV00736,Swiggy,Desserts,2,negative,2022-11-26,Packaging was broken and everything was spilled. Very bad!
+REV00082,Swiggy,Chinese,5,positive,2024-06-19,Item was well packed and exactly as shown in the listing. Will update after more use.
+REV00882,Amazon,Books,2,negative,2022-03-27,Packaging was broken and everything was spilled. Very bad! My family loves it.
+REV00740,Swiggy,Continental,1,negative,2023-08-09,Disgusting! The food smelled awful and tasted even worse. Could be much better.
+REV01102,Amazon,Clothing,2,negative,2025-11-22,Terrible product. Stopped working after just 2 days of use. Highly recommend!
+REV00909,Swiggy,Pizza,3,neutral,2025-06-12,Nothing extraordinary. Just a regular experience. Highly recommend!
+REV01167,Swiggy,Indian,3,neutral,2025-11-15,It's okay. Nothing special but does the job.
+REV00937,Swiggy,Burgers,4,positive,2025-06-16,Excellent experience overall. The app was smooth and order arrived on time. Very disappointed with this.
+REV00372,Zomato,Biryani,3,neutral,2024-12-28,"Mixed experience. Some things were good, some were not. Very disappointed with this."
+REV00890,Amazon,Books,5,positive,2024-07-20,Fantastic service! The delivery executive was very polite. Not worth the money at all.
+REV00157,Amazon,Home Appliances,5,positive,2023-08-24,Loved the food quality. Perfect spice level and very fresh.
+REV00992,Zomato,Pizza,2,negative,2022-06-01,Extremely salty food. Couldn't eat more than one bite. Highly recommend!
+REV00622,Zomato,Biryani,4,positive,2023-07-11,Fantastic service! The delivery executive was very polite. Very disappointed with this.
+REV01038,Amazon,Clothing,5,positive,2024-06-08,Love the flavor! This has become my go-to comfort food. Ordered twice already.
+REV00245,Swiggy,Indian,5,positive,2022-09-13,"Wow, just wow! The product blew my mind completely. Could be much better."
+REV00159,Swiggy,Desserts,5,positive,2024-10-16,No complaints at all. Everything was perfect from order to delivery. Not worth the money at all.
+REV00746,Amazon,Beauty,5,positive,2024-10-27,"The food was absolutely delicious, fresh and hot on arrival! Overall a good choice."
+REV00193,Zomato,Burgers,2,negative,2023-08-27,Never received my order. And no refund either. Scammers! Could be much better.
+REV00534,Swiggy,Burgers,3,neutral,2023-04-03,Product arrived in decent shape. Does what it says. Ordered twice already.
+REV00904,Zomato,Pizza,4,positive,2024-02-16,Amazing quality for the price. Will definitely buy again! Ordered twice already.
+REV01004,Zomato,Biryani,2,negative,2025-07-19,Worst purchase ever. Do not buy this garbage. Overall a good choice.
+REV01070,Swiggy,Pizza,5,positive,2024-08-28,Love the flavor! This has become my go-to comfort food. Will update after more use.
+REV00414,Swiggy,Chinese,5,positive,2023-01-04,Excellent experience overall. The app was smooth and order arrived on time. Could be much better.
+REV01187,Zomato,Chinese,4,positive,2023-05-24,Outstanding product. Works perfectly and looks great. Very disappointed with this.
+REV00328,Swiggy,Chinese,1,negative,2022-03-18,Arrived 90 minutes late. By then the food was in a terrible state. Could be much better.
+REV00129,Swiggy,Pizza,2,negative,2022-09-12,The food was burnt on one side and raw on the other. Shocking! Very disappointed with this.
+REV00695,Amazon,Electronics,2,negative,2023-05-20,Packaging was broken and everything was spilled. Very bad! Ordered twice already.
+REV00631,Swiggy,Indian,4,neutral,2025-08-10,"Mixed experience. Some things were good, some were not."
+REV00275,Swiggy,Pizza,5,positive,2022-08-21,"Good product, solid build quality, very happy with this purchase. Not worth the money at all."
+REV01148,Swiggy,Biryani,4,positive,2023-01-05,Excellent experience overall. The app was smooth and order arrived on time. Could be much better.
+REV00309,Swiggy,Burgers,5,positive,2024-08-30,Received the package on time. Very satisfied with the seller. Will update after more use.
+REV00234,Zomato,Pizza,4,positive,2022-09-22,Very happy with this purchase. The quality is top-notch. My family loves it.
+REV01048,Amazon,Beauty,5,positive,2022-04-16,Fantastic service! The delivery executive was very polite. Ordered twice already.
+REV00623,Zomato,Desserts,4,neutral,2022-08-20,Food was warm enough. Taste was neither good nor bad. Highly recommend!
+REV00644,Amazon,Sports,2,negative,2024-07-11,Worst purchase ever. Do not buy this garbage. Overall a good choice.
+REV00479,Zomato,Burgers,5,positive,2025-07-11,Amazing quality for the price. Will definitely buy again! Will update after more use.
+REV00472,Amazon,Home Appliances,3,neutral,2023-05-24,Works as described but the build feel is a bit cheap. Overall a good choice.
+REV00926,Swiggy,Pizza,5,positive,2022-10-21,"Wow, just wow! The product blew my mind completely. Ordered twice already."
+REV01098,Amazon,Beauty,5,positive,2024-12-25,Outstanding product. Works perfectly and looks great. Could be much better.
+REV00627,Amazon,Home Appliances,5,positive,2022-01-26,Very impressed with the quality. Packaging was also very good. Ordered twice already.
+REV00395,Swiggy,Chinese,3,neutral,2025-10-18,"Delivery was on time. Food was so-so, not great. My family loves it."
+REV00637,Swiggy,Burgers,2,negative,2024-11-07,Terrible product. Stopped working after just 2 days of use. Will update after more use.
+REV00768,Swiggy,Indian,1,negative,2022-07-22,The order was completely wrong. Got totally different food. My family loves it.
+REV00533,Amazon,Sports,5,positive,2025-08-02,Loved the food quality. Perfect spice level and very fresh. My family loves it.
+REV00718,Swiggy,Desserts,2,negative,2022-06-25,Way overpriced for the terrible quality they delivered. Will update after more use.
+REV00667,Swiggy,Pizza,1,negative,2023-03-27,Never received my order. And no refund either. Scammers! Could be much better.
+REV00598,Zomato,Pizza,3,neutral,2023-10-04,The product works fine but could be improved in some areas. Highly recommend!
+REV00482,Zomato,Burgers,3,neutral,2023-09-28,It's alright. Not as expected but manageable. Overall a good choice.
+REV01103,Amazon,Clothing,5,positive,2024-05-20,Delivery was super quick and the packaging was excellent. Overall a good choice.
+REV00315,Swiggy,Desserts,2,negative,2025-12-16,"The movie, the app, the everything — all terrible experience."
+REV00729,Amazon,Beauty,5,positive,2022-08-30,Absolutely loved this product! Exceeded all my expectations. Could be much better.
+REV00210,Swiggy,Desserts,4,positive,2024-12-15,Very impressed with the quality. Packaging was also very good. Very disappointed with this.
+REV00934,Swiggy,Continental,1,negative,2025-03-21,Found a hair in my food. Absolutely disgusting! Will update after more use.
+REV00434,Zomato,Burgers,4,positive,2025-05-07,5 stars! This is the best purchase I've made this year. Ordered twice already.
+REV00329,Amazon,Electronics,3,neutral,2024-10-11,The product works fine but could be improved in some areas. My family loves it.
+REV00261,Amazon,Sports,2,negative,2022-03-17,The food was cold and stale when it arrived. Totally unacceptable. Very disappointed with this.
+REV01117,Zomato,Pizza,3,neutral,2023-01-22,Acceptable but I've had better from other sellers. My family loves it.
+REV00307,Amazon,Beauty,1,negative,2022-10-14,"The movie, the app, the everything — all terrible experience. Could be much better."
+REV01067,Amazon,Sports,5,positive,2023-12-06,Best biryani I've ever had. Highly recommend this restaurant. Ordered twice already.
+REV00928,Swiggy,Indian,1,negative,2023-09-29,Disgusting! The food smelled awful and tasted even worse.
+REV01025,Amazon,Clothing,1,negative,2024-10-15,Found a hair in my food. Absolutely disgusting! Very disappointed with this.
+REV00271,Swiggy,Desserts,1,negative,2022-03-05,The product broke on the very first use. Pathetic quality. Highly recommend!
+REV00291,Zomato,Desserts,5,positive,2025-03-17,10/10 product. Would strongly recommend to everyone. Not worth the money at all.
+REV00813,Amazon,Home Appliances,5,positive,2024-09-20,Excellent experience overall. The app was smooth and order arrived on time.
+REV00097,Swiggy,Indian,5,positive,2023-09-30,No complaints at all. Everything was perfect from order to delivery. Highly recommend!
+REV00888,Amazon,Books,5,positive,2022-07-05,Amazing quality for the price. Will definitely buy again! Very disappointed with this.
+REV00819,Swiggy,Biryani,2,neutral,2022-11-12,Food quantity was okay but the quality could be better. Could be much better.
+REV00032,Swiggy,Burgers,1,negative,2023-05-13,The delivery took over 2 hours and the food was ice cold. Very disappointed with this.
+REV00763,Zomato,Biryani,3,neutral,2024-05-08,Works as described but the build feel is a bit cheap. Not worth the money at all.
+REV00954,Swiggy,Pizza,4,positive,2023-12-07,Fantastic service! The delivery executive was very polite. My family loves it.
+REV00320,Zomato,Pizza,5,positive,2023-07-15,"Crispy, hot and fresh! The fries were amazing. Could be much better."
+REV00299,Zomato,Biryani,2,negative,2024-10-15,"The movie, the app, the everything — all terrible experience. Will update after more use."
+REV00200,Swiggy,Chinese,1,negative,2025-09-06,Worst pizza I've ever had. Dough was raw from the inside. Highly recommend!
+REV00561,Swiggy,Biryani,2,neutral,2023-10-30,"Delivery was on time. Food was so-so, not great. Could be much better."
+REV00179,Zomato,Desserts,1,negative,2024-09-29,Product is a complete scam. Nothing works as advertised. Overall a good choice.
+REV01132,Amazon,Beauty,5,positive,2025-09-13,"Crispy, hot and fresh! The fries were amazing. Very disappointed with this."
+REV00089,Swiggy,Desserts,5,positive,2022-12-05,Absolutely loved this product! Exceeded all my expectations. My family loves it.
+REV00788,Zomato,Pizza,3,neutral,2023-09-14,Acceptable but I've had better from other sellers. Highly recommend!
+REV00725,Zomato,Burgers,3,neutral,2024-01-29,Decent product overall. Would maybe try alternatives next time. My family loves it.
+REV00827,Swiggy,Indian,4,neutral,2023-04-19,"Delivery was on time. Food was so-so, not great. Overall a good choice."
+REV00209,Zomato,Pizza,2,negative,2024-11-15,"The movie, the app, the everything — all terrible experience. Not worth the money at all."
+REV01040,Swiggy,Indian,5,positive,2024-12-23,"Wow, just wow! The product blew my mind completely. My family loves it."
+REV00297,Amazon,Electronics,4,positive,2024-02-26,Tastes just like homemade. So glad I found this place! Will update after more use.
+REV00998,Zomato,Burgers,5,positive,2024-11-21,Outstanding product. Works perfectly and looks great.
+REV00498,Amazon,Clothing,2,negative,2024-04-19,Never received my order. And no refund either. Scammers!
+REV00835,Amazon,Home Appliances,4,positive,2024-11-26,Excellent experience overall. The app was smooth and order arrived on time.
+REV00430,Zomato,Desserts,1,negative,2023-01-17,Disgusting! The food smelled awful and tasted even worse. Highly recommend!
+REV00507,Zomato,Indian,5,positive,2024-01-04,Tastes just like homemade. So glad I found this place! Could be much better.
+REV00831,Swiggy,Burgers,5,positive,2023-12-23,Fantastic service! The delivery executive was very polite. Very disappointed with this.
+REV00694,Swiggy,Burgers,2,negative,2025-03-04,The food was burnt on one side and raw on the other. Shocking! Highly recommend!
+REV00011,Amazon,Books,2,negative,2023-07-07,Never received my order. And no refund either. Scammers! My family loves it.
+REV00848,Zomato,Pizza,1,negative,2024-03-27,Product is a complete scam. Nothing works as advertised. Overall a good choice.
+REV00463,Zomato,Desserts,1,negative,2025-12-03,Returned the product but didn't get any refund for weeks. Will update after more use.
+REV00199,Zomato,Continental,5,positive,2023-08-13,Very happy with this purchase. The quality is top-notch.
+REV00060,Zomato,Chinese,4,neutral,2024-02-23,The service was fine. The food was neither special nor bad. Overall a good choice.
+REV00907,Amazon,Beauty,5,positive,2022-06-29,Best biryani I've ever had. Highly recommend this restaurant. Could be much better.
+REV00997,Swiggy,Indian,4,positive,2025-09-23,"Wow, just wow! The product blew my mind completely."
+REV00276,Zomato,Burgers,5,positive,2023-06-21,"The food was absolutely delicious, fresh and hot on arrival! Overall a good choice."
+REV00809,Amazon,Clothing,2,negative,2022-07-07,Worst pizza I've ever had. Dough was raw from the inside. Very disappointed with this.
+REV00908,Swiggy,Pizza,2,negative,2025-05-31,Extremely salty food. Couldn't eat more than one bite. My family loves it.
+REV00658,Zomato,Indian,1,negative,2023-04-05,Complete waste of money. The quality is very poor. Could be much better.
+REV00957,Amazon,Books,5,positive,2025-07-04,Loved the food quality. Perfect spice level and very fresh. My family loves it.
+REV00886,Swiggy,Continental,3,neutral,2023-01-24,Average product. Neither good nor bad. Just decent.
+REV00221,Zomato,Chinese,2,neutral,2025-05-18,Decent for the price but room for improvement. Highly recommend!
+REV00789,Amazon,Home Appliances,5,positive,2024-08-18,Received the package on time. Very satisfied with the seller. Will update after more use.
+REV00712,Amazon,Books,1,negative,2023-04-17,The food was burnt on one side and raw on the other. Shocking! Highly recommend!
+REV00714,Zomato,Continental,2,negative,2022-08-21,Worst purchase ever. Do not buy this garbage. Ordered twice already.
+REV01113,Zomato,Biryani,4,neutral,2024-11-19,The product works fine but could be improved in some areas. Not worth the money at all.
+REV01191,Zomato,Burgers,5,positive,2022-01-11,Delivery was super quick and the packaging was excellent.
+REV00790,Zomato,Pizza,2,negative,2024-05-31,Extremely salty food. Couldn't eat more than one bite.
+REV00416,Zomato,Desserts,1,negative,2022-10-13,Extremely salty food. Couldn't eat more than one bite. Very disappointed with this.
+REV00899,Amazon,Clothing,5,positive,2023-07-24,Super fast delivery and the item is exactly as described. Could be much better.
+REV00935,Zomato,Burgers,5,positive,2022-04-14,Super fast delivery and the item is exactly as described. Very disappointed with this.
+REV00266,Zomato,Continental,3,neutral,2023-07-01,The taste was fine but the presentation was disappointing. Could be much better.
+REV00632,Zomato,Continental,4,neutral,2022-06-03,Order was slightly delayed but food was alright. Highly recommend!
+REV00248,Amazon,Home Appliances,4,positive,2022-02-27,"Good product, solid build quality, very happy with this purchase. Not worth the money at all."
+REV00683,Swiggy,Indian,5,positive,2025-11-05,Super fast delivery and the item is exactly as described. Will update after more use.
+REV00559,Amazon,Clothing,5,positive,2024-05-17,"The food was absolutely delicious, fresh and hot on arrival!"
+REV01137,Amazon,Clothing,5,positive,2025-04-28,Amazing quality for the price. Will definitely buy again! Will update after more use.
+REV00968,Zomato,Desserts,1,negative,2025-11-01,The food was burnt on one side and raw on the other. Shocking! Overall a good choice.
+REV01005,Amazon,Electronics,4,positive,2024-09-28,Best biryani I've ever had. Highly recommend this restaurant. Not worth the money at all.
+REV00985,Amazon,Beauty,2,negative,2025-10-19,Product is a complete scam. Nothing works as advertised. Ordered twice already.
+REV00295,Swiggy,Pizza,5,positive,2024-03-27,Outstanding product. Works perfectly and looks great. Ordered twice already.
+REV00520,Zomato,Chinese,5,positive,2023-05-26,Great taste and generous portions. Will order again! Could be much better.
+REV00771,Swiggy,Burgers,5,positive,2025-03-27,5 stars! This is the best purchase I've made this year. Not worth the money at all.
+REV00084,Amazon,Sports,5,positive,2022-05-12,Delivery was super quick and the packaging was excellent. Not worth the money at all.
+REV00232,Swiggy,Desserts,1,negative,2023-08-05,Very disappointed. The product looks nothing like the photos. My family loves it.
+REV00621,Zomato,Burgers,1,negative,2022-07-10,Packaging was broken and everything was spilled. Very bad! Will update after more use.
+REV00334,Swiggy,Desserts,5,positive,2022-12-26,Fantastic service! The delivery executive was very polite. Not worth the money at all.
+REV00130,Zomato,Burgers,2,negative,2024-10-08,The order was completely wrong. Got totally different food. Could be much better.
+REV01012,Amazon,Electronics,1,negative,2025-05-03,Way overpriced for the terrible quality they delivered. Very disappointed with this.
+REV00645,Amazon,Books,2,negative,2024-12-22,Way overpriced for the terrible quality they delivered.
+REV00974,Swiggy,Pizza,1,negative,2023-06-11,Found a hair in my food. Absolutely disgusting! Will update after more use.
+REV00383,Swiggy,Biryani,5,positive,2022-02-02,10/10 product. Would strongly recommend to everyone. Very disappointed with this.
+REV00868,Amazon,Sports,5,positive,2024-12-02,Excellent experience overall. The app was smooth and order arrived on time. My family loves it.
+REV00543,Zomato,Pizza,1,negative,2022-06-01,Complete waste of money. The quality is very poor. Overall a good choice.
+REV01194,Amazon,Electronics,2,negative,2025-12-25,Packaging was broken and everything was spilled. Very bad! Ordered twice already.
+REV00875,Zomato,Chinese,5,positive,2022-08-07,10/10 product. Would strongly recommend to everyone. Not worth the money at all.
+REV00332,Amazon,Beauty,2,negative,2023-07-13,"The movie, the app, the everything — all terrible experience. Very disappointed with this."
+REV00410,Zomato,Biryani,4,neutral,2024-05-31,Food quantity was okay but the quality could be better. Ordered twice already.
+REV00077,Amazon,Electronics,5,positive,2023-03-25,Outstanding product. Works perfectly and looks great. My family loves it.
+REV00869,Swiggy,Chinese,4,neutral,2023-05-08,Got what I paid for. Quality matches the price I guess. My family loves it.
+REV00139,Amazon,Clothing,2,negative,2025-01-29,"The movie, the app, the everything — all terrible experience. Will update after more use."
+REV00544,Amazon,Beauty,4,positive,2023-11-24,Excellent experience overall. The app was smooth and order arrived on time. Overall a good choice.
+REV00674,Swiggy,Biryani,3,neutral,2022-03-31,Decent product overall. Would maybe try alternatives next time. Very disappointed with this.
+REV00921,Zomato,Biryani,4,neutral,2022-12-06,Nothing extraordinary. Just a regular experience. Could be much better.
+REV00064,Zomato,Indian,2,neutral,2025-05-06,Nothing extraordinary. Just a regular experience. Overall a good choice.
+REV00142,Amazon,Books,4,positive,2025-08-19,Very impressed with the quality. Packaging was also very good. Overall a good choice.
+REV00717,Zomato,Chinese,2,neutral,2024-04-10,It's alright. Not as expected but manageable. Could be much better.
+REV00377,Amazon,Books,5,positive,2025-09-02,Excellent experience overall. The app was smooth and order arrived on time. Could be much better.
+REV00364,Zomato,Biryani,5,positive,2025-01-06,Very impressed with the quality. Packaging was also very good. Highly recommend!
+REV00140,Swiggy,Biryani,5,positive,2022-03-01,Loved the food quality. Perfect spice level and very fresh. Overall a good choice.
+REV00885,Amazon,Beauty,4,neutral,2024-03-21,Average product. Neither good nor bad. Just decent. Could be much better.
+REV01042,Zomato,Chinese,2,negative,2024-01-05,Terrible product. Stopped working after just 2 days of use. Highly recommend!
+REV00225,Zomato,Biryani,1,negative,2022-03-19,Worst pizza I've ever had. Dough was raw from the inside. Very disappointed with this.
+REV00515,Zomato,Continental,4,neutral,2022-07-08,"Food was average. Some items were tasty, some were not. Highly recommend!"
+REV00267,Zomato,Burgers,3,neutral,2025-01-22,The service was fine. The food was neither special nor bad. Highly recommend!
+REV01170,Zomato,Pizza,2,neutral,2022-07-04,Food quantity was okay but the quality could be better. Will update after more use.
+REV00487,Zomato,Desserts,5,positive,2022-03-02,Love the flavor! This has become my go-to comfort food. Overall a good choice.
+REV00353,Zomato,Indian,2,neutral,2025-01-05,"Mixed experience. Some things were good, some were not. Highly recommend!"
+REV01006,Zomato,Burgers,5,positive,2022-02-03,Great value for money. Works as advertised. Very disappointed with this.
+REV00618,Zomato,Pizza,3,neutral,2022-04-13,Product arrived in decent shape. Does what it says. Very disappointed with this.
+REV00668,Swiggy,Chinese,2,neutral,2025-01-17,Order was slightly delayed but food was alright. My family loves it.
+REV00775,Amazon,Electronics,1,negative,2023-12-05,Way overpriced for the terrible quality they delivered. Highly recommend!
+REV00554,Swiggy,Pizza,1,negative,2024-04-27,Delivery partner was rude and dropped the bag from far. Could be much better.
+REV00576,Zomato,Burgers,5,positive,2023-12-18,No complaints at all. Everything was perfect from order to delivery. Could be much better.
+REV00915,Swiggy,Pizza,1,negative,2024-03-22,Arrived 90 minutes late. By then the food was in a terrible state. Ordered twice already.
+REV00466,Zomato,Desserts,5,positive,2024-09-05,Fantastic service! The delivery executive was very polite. Highly recommend!
+REV00591,Swiggy,Burgers,5,positive,2023-08-25,Loved the food quality. Perfect spice level and very fresh. Highly recommend!
+REV00765,Amazon,Sports,2,negative,2023-04-28,Way overpriced for the terrible quality they delivered. Will update after more use.
+REV00635,Zomato,Biryani,2,neutral,2022-09-01,Acceptable but I've had better from other sellers. Ordered twice already.
+REV00838,Zomato,Pizza,2,neutral,2022-10-11,It's alright. Not as expected but manageable. Highly recommend!
+REV00290,Swiggy,Indian,1,negative,2022-06-16,The food was burnt on one side and raw on the other. Shocking!
+REV00040,Swiggy,Desserts,5,positive,2022-11-14,Love the flavor! This has become my go-to comfort food. Very disappointed with this.
+REV00031,Amazon,Beauty,5,positive,2023-07-25,Amazing quality for the price. Will definitely buy again! Not worth the money at all.
+REV00243,Zomato,Continental,2,negative,2024-02-22,Way overpriced for the terrible quality they delivered. Will update after more use.
+REV00429,Amazon,Beauty,3,neutral,2023-11-09,The service was fine. The food was neither special nor bad. Highly recommend!
+REV00137,Amazon,Books,1,negative,2022-01-03,Packaging was broken and everything was spilled. Very bad! Could be much better.
+REV01101,Swiggy,Burgers,5,positive,2022-12-19,Tastes just like homemade. So glad I found this place! Ordered twice already.
+REV00865,Zomato,Desserts,1,negative,2023-12-29,Product is a complete scam. Nothing works as advertised. Ordered twice already.
+REV00004,Amazon,Clothing,4,positive,2023-11-28,"The chicken was perfectly cooked, juicy and full of flavor. My family loves it."
+REV00833,Zomato,Burgers,2,negative,2025-02-27,Seller is a fraud. Sent a fake product instead of the original. Not worth the money at all.
+REV00603,Swiggy,Pizza,4,positive,2022-09-22,Love the flavor! This has become my go-to comfort food. Will update after more use.
+REV01034,Amazon,Electronics,4,positive,2023-07-29,Great taste and generous portions. Will order again!
+REV00655,Swiggy,Indian,4,neutral,2024-02-20,Product is functional but not premium by any means.
+REV00844,Swiggy,Indian,1,negative,2025-01-10,The product broke on the very first use. Pathetic quality. Ordered twice already.
+REV00784,Zomato,Continental,5,positive,2024-08-14,"Good product, solid build quality, very happy with this purchase. Very disappointed with this."
+REV01074,Swiggy,Chinese,4,positive,2023-03-31,Fantastic service! The delivery executive was very polite. Could be much better.
+REV00443,Amazon,Home Appliances,4,positive,2023-07-17,"The chicken was perfectly cooked, juicy and full of flavor."
+REV01178,Amazon,Beauty,2,negative,2023-10-17,Arrived 90 minutes late. By then the food was in a terrible state. My family loves it.
+REV00436,Zomato,Burgers,5,positive,2025-10-08,Very happy with this purchase. The quality is top-notch. Overall a good choice.
+REV01169,Swiggy,Indian,4,neutral,2023-04-30,Mediocre experience. Expected more for this price. Could be much better.
+REV00101,Swiggy,Pizza,1,negative,2024-11-02,Worst pizza I've ever had. Dough was raw from the inside. Overall a good choice.
+REV00773,Amazon,Books,2,negative,2024-08-07,Arrived 90 minutes late. By then the food was in a terrible state. Will update after more use.
+REV00495,Zomato,Continental,2,neutral,2023-09-29,Food quantity was okay but the quality could be better. Will update after more use.
+REV01028,Amazon,Books,2,neutral,2022-08-26,The product works fine but could be improved in some areas. Could be much better.
+REV00807,Amazon,Home Appliances,5,positive,2024-03-21,Very impressed with the quality. Packaging was also very good. Overall a good choice.
+REV01142,Swiggy,Pizza,1,negative,2025-06-13,Packaging was broken and everything was spilled. Very bad! Highly recommend!
+REV00846,Swiggy,Burgers,2,negative,2022-07-04,The product broke on the very first use. Pathetic quality. Could be much better.
+REV00987,Swiggy,Biryani,5,positive,2023-03-26,5 stars! This is the best purchase I've made this year. Ordered twice already.
+REV00228,Swiggy,Chinese,2,negative,2024-07-11,Packaging was broken and everything was spilled. Very bad!
+REV01193,Amazon,Home Appliances,2,neutral,2024-10-28,"Mixed experience. Some things were good, some were not. Highly recommend!"
+REV00672,Amazon,Electronics,4,neutral,2024-02-21,Got what I paid for. Quality matches the price I guess. Ordered twice already.
+REV00859,Zomato,Chinese,1,negative,2023-08-05,Delivery partner was rude and dropped the bag from far.
+REV00925,Zomato,Burgers,3,neutral,2023-01-25,Acceptable but I've had better from other sellers. Highly recommend!
+REV00067,Swiggy,Desserts,2,negative,2024-01-16,Never received my order. And no refund either. Scammers! Not worth the money at all.
+REV00068,Swiggy,Pizza,5,positive,2023-09-08,Very happy with this purchase. The quality is top-notch. Overall a good choice.
+REV00817,Swiggy,Chinese,5,positive,2025-06-23,10/10 product. Would strongly recommend to everyone.
+REV00212,Zomato,Pizza,5,positive,2022-09-03,Best biryani I've ever had. Highly recommend this restaurant. Ordered twice already.
+REV00013,Zomato,Pizza,5,positive,2023-03-09,Amazing quality for the price. Will definitely buy again! Overall a good choice.
+REV00494,Amazon,Clothing,5,positive,2024-11-22,Received the package on time. Very satisfied with the seller. Not worth the money at all.
+REV01165,Zomato,Burgers,2,negative,2024-08-30,Extremely salty food. Couldn't eat more than one bite. My family loves it.
+REV00300,Amazon,Clothing,5,positive,2022-04-10,Excellent experience overall. The app was smooth and order arrived on time. Ordered twice already.
+REV00411,Amazon,Home Appliances,4,neutral,2025-05-20,Product arrived in decent shape. Does what it says. Ordered twice already.
+REV00757,Swiggy,Continental,2,negative,2024-10-02,"The movie, the app, the everything — all terrible experience. Will update after more use."
+REV01075,Amazon,Electronics,1,negative,2024-07-01,Arrived 90 minutes late. By then the food was in a terrible state. Could be much better.
+REV00696,Zomato,Pizza,2,negative,2022-10-03,Extremely salty food. Couldn't eat more than one bite. Ordered twice already.
+REV01151,Swiggy,Desserts,4,neutral,2024-12-05,Product is functional but not premium by any means.
+REV00724,Swiggy,Chinese,1,negative,2022-01-03,Worst purchase ever. Do not buy this garbage. Could be much better.
+REV01016,Amazon,Sports,5,positive,2025-02-07,Outstanding product. Works perfectly and looks great. Ordered twice already.
+REV00528,Zomato,Burgers,2,negative,2022-12-26,Way overpriced for the terrible quality they delivered. Will update after more use.
+REV00600,Swiggy,Biryani,1,negative,2024-04-06,Arrived 90 minutes late. By then the food was in a terrible state. My family loves it.
+REV01120,Amazon,Sports,5,positive,2022-05-13,Excellent experience overall. The app was smooth and order arrived on time. Highly recommend!
+REV00567,Amazon,Sports,3,neutral,2023-07-05,Works as described but the build feel is a bit cheap. Very disappointed with this.
+REV00731,Swiggy,Pizza,5,positive,2025-01-02,Outstanding product. Works perfectly and looks great. Will update after more use.
+REV00274,Zomato,Biryani,5,positive,2025-03-21,Tastes just like homemade. So glad I found this place! Overall a good choice.
+REV00967,Zomato,Biryani,2,negative,2022-06-10,Customer service is non-existent. Absolute zero support. Could be much better.
+REV00238,Zomato,Continental,4,positive,2024-11-05,Outstanding product. Works perfectly and looks great. Overall a good choice.
+REV00406,Amazon,Clothing,2,negative,2023-09-09,The food was cold and stale when it arrived. Totally unacceptable. Will update after more use.
+REV00003,Swiggy,Chinese,5,positive,2024-05-09,Received the package on time. Very satisfied with the seller. Could be much better.
+REV00007,Zomato,Continental,4,positive,2025-03-28,Excellent experience overall. The app was smooth and order arrived on time. Ordered twice already.
+REV00312,Swiggy,Burgers,1,negative,2022-10-30,The food was cold and stale when it arrived. Totally unacceptable. My family loves it.
+REV01091,Zomato,Chinese,1,negative,2022-10-27,Way overpriced for the terrible quality they delivered.
+REV00452,Zomato,Indian,4,neutral,2025-09-05,It's alright. Not as expected but manageable. Will update after more use.
+REV00722,Amazon,Beauty,4,positive,2025-11-02,Outstanding product. Works perfectly and looks great. Could be much better.
+REV00216,Amazon,Books,5,positive,2023-10-28,10/10 product. Would strongly recommend to everyone.
+REV01086,Amazon,Clothing,1,negative,2023-09-07,Disgusting! The food smelled awful and tasted even worse. Will update after more use.
+REV00028,Swiggy,Desserts,5,positive,2024-06-16,Loved the food quality. Perfect spice level and very fresh. Ordered twice already.
+REV01158,Zomato,Continental,2,negative,2022-04-24,Complete waste of money. The quality is very poor.
+REV00362,Amazon,Beauty,1,negative,2025-07-06,Seller is a fraud. Sent a fake product instead of the original. Highly recommend!
+REV00823,Zomato,Indian,2,negative,2023-03-29,The food was burnt on one side and raw on the other. Shocking! Ordered twice already.
+REV00781,Amazon,Electronics,2,negative,2025-06-19,Customer service is non-existent. Absolute zero support. Will update after more use.
+REV00629,Swiggy,Burgers,3,neutral,2024-06-05,Order was slightly delayed but food was alright. Overall a good choice.
+REV00454,Zomato,Desserts,5,positive,2024-02-08,Outstanding product. Works perfectly and looks great. My family loves it.
+REV00739,Swiggy,Pizza,3,neutral,2022-12-25,Food quantity was okay but the quality could be better.
+REV00536,Swiggy,Biryani,5,positive,2023-01-08,Absolutely loved this product! Exceeded all my expectations.
+REV01050,Swiggy,Continental,1,negative,2022-10-11,Extremely salty food. Couldn't eat more than one bite. Not worth the money at all.
+REV00399,Zomato,Burgers,1,negative,2024-06-03,Disgusting! The food smelled awful and tasted even worse. My family loves it.
+REV00257,Zomato,Continental,1,negative,2022-03-31,Customer service is non-existent. Absolute zero support. Very disappointed with this.
+REV00292,Swiggy,Burgers,4,positive,2025-08-07,10/10 product. Would strongly recommend to everyone. Will update after more use.
+REV00026,Amazon,Sports,3,neutral,2025-01-30,"Mixed experience. Some things were good, some were not. Very disappointed with this."
+REV00337,Zomato,Pizza,4,positive,2025-04-07,Excellent experience overall. The app was smooth and order arrived on time. Will update after more use.
+REV00585,Zomato,Desserts,1,negative,2023-07-22,"The movie, the app, the everything — all terrible experience. Ordered twice already."
+REV00048,Zomato,Indian,1,negative,2024-01-27,Customer service is non-existent. Absolute zero support. Not worth the money at all.
+REV00319,Amazon,Home Appliances,3,neutral,2025-12-14,Nothing extraordinary. Just a regular experience. Will update after more use.
+REV00107,Zomato,Pizza,2,negative,2025-02-12,Worst pizza I've ever had. Dough was raw from the inside. Will update after more use.
+REV00799,Zomato,Desserts,2,negative,2023-11-08,"The movie, the app, the everything — all terrible experience."
+REV00056,Amazon,Books,5,positive,2022-03-27,"Good product, solid build quality, very happy with this purchase. Highly recommend!"
+REV00523,Amazon,Electronics,5,positive,2022-04-30,Absolutely loved this product! Exceeded all my expectations. Will update after more use.
+REV00214,Zomato,Indian,5,positive,2022-03-28,Great value for money. Works as advertised. My family loves it.
+REV00121,Swiggy,Chinese,1,negative,2024-02-19,The food was burnt on one side and raw on the other. Shocking! Could be much better.
+REV00918,Swiggy,Pizza,5,positive,2024-04-27,Tastes just like homemade. So glad I found this place! Very disappointed with this.
+REV01068,Amazon,Beauty,5,positive,2022-09-06,Tastes just like homemade. So glad I found this place! Will update after more use.
+REV01118,Zomato,Chinese,4,neutral,2025-10-12,The taste was fine but the presentation was disappointing.
+REV00073,Swiggy,Chinese,1,negative,2023-08-05,Customer service is non-existent. Absolute zero support. Overall a good choice.
+REV00948,Amazon,Sports,2,negative,2025-12-28,Never received my order. And no refund either. Scammers! Overall a good choice.
+REV00747,Zomato,Burgers,5,positive,2025-11-22,5 stars! This is the best purchase I've made this year. Will update after more use.
+REV00716,Amazon,Clothing,5,positive,2022-03-22,Outstanding product. Works perfectly and looks great. Could be much better.
+REV00558,Swiggy,Chinese,3,neutral,2024-07-08,Not impressed but not terrible either. Just average. Overall a good choice.
+REV01082,Swiggy,Continental,4,neutral,2022-07-01,"Delivery was on time. Food was so-so, not great. My family loves it."
+REV01046,Swiggy,Pizza,1,negative,2022-03-08,Returned the product but didn't get any refund for weeks. Could be much better.
+REV00553,Amazon,Home Appliances,5,positive,2022-11-06,Tastes just like homemade. So glad I found this place!
+REV00562,Amazon,Sports,3,neutral,2024-05-09,Order was slightly delayed but food was alright. Could be much better.
+REV00425,Zomato,Indian,2,neutral,2022-10-18,The taste was fine but the presentation was disappointing. Overall a good choice.
+REV01014,Swiggy,Burgers,5,positive,2023-10-21,5 stars! This is the best purchase I've made this year. Highly recommend!
+REV00326,Amazon,Electronics,4,positive,2022-11-20,"Wow, just wow! The product blew my mind completely. Could be much better."
+REV00924,Zomato,Continental,4,positive,2023-02-18,Loved the food quality. Perfect spice level and very fresh.
+REV00317,Swiggy,Pizza,5,positive,2023-12-27,"The food was absolutely delicious, fresh and hot on arrival! Could be much better."
+REV00804,Swiggy,Pizza,1,negative,2022-11-21,The delivery took over 2 hours and the food was ice cold. Ordered twice already.
+REV01163,Zomato,Chinese,2,negative,2022-08-07,Product is a complete scam. Nothing works as advertised. Highly recommend!
+REV00529,Swiggy,Chinese,1,negative,2024-12-14,Very disappointed. The product looks nothing like the photos.
+REV00837,Swiggy,Burgers,2,negative,2025-03-14,Extremely salty food. Couldn't eat more than one bite. Could be much better.
+REV00715,Swiggy,Chinese,1,negative,2022-02-15,"The movie, the app, the everything — all terrible experience. My family loves it."
+REV00901,Amazon,Sports,4,positive,2023-11-10,"Good product, solid build quality, very happy with this purchase. Will update after more use."
+REV00061,Zomato,Pizza,3,neutral,2023-04-12,The taste was fine but the presentation was disappointing. Will update after more use.
+REV00723,Amazon,Books,5,positive,2024-12-24,Outstanding product. Works perfectly and looks great.
+REV00093,Amazon,Books,4,positive,2025-01-09,Very impressed with the quality. Packaging was also very good.
+REV00858,Amazon,Sports,2,negative,2024-02-11,The food was burnt on one side and raw on the other. Shocking!
+REV00619,Zomato,Pizza,5,positive,2024-05-22,"The food was absolutely delicious, fresh and hot on arrival! Ordered twice already."
+REV00352,Zomato,Biryani,3,neutral,2025-10-30,Food quantity was okay but the quality could be better. Overall a good choice.
+REV00933,Amazon,Clothing,5,positive,2023-12-19,No complaints at all. Everything was perfect from order to delivery. Could be much better.
+REV00281,Amazon,Clothing,2,negative,2022-02-23,Worst purchase ever. Do not buy this garbage. Very disappointed with this.
+REV00421,Swiggy,Desserts,1,negative,2023-11-11,Complete waste of money. The quality is very poor. My family loves it.
+REV01115,Swiggy,Pizza,2,negative,2022-03-25,"The movie, the app, the everything — all terrible experience. Could be much better."
+REV00360,Swiggy,Burgers,1,negative,2025-03-28,The order was completely wrong. Got totally different food. Ordered twice already.
+REV00423,Swiggy,Chinese,1,negative,2024-02-06,Never received my order. And no refund either. Scammers! Very disappointed with this.
+REV00679,Amazon,Electronics,3,neutral,2023-11-11,"Delivery was on time. Food was so-so, not great. Very disappointed with this."
+REV00527,Swiggy,Indian,5,positive,2025-03-08,Love the flavor! This has become my go-to comfort food. Ordered twice already.
+REV00478,Swiggy,Indian,2,neutral,2023-06-21,Decent product overall. Would maybe try alternatives next time.
+REV01095,Swiggy,Continental,5,positive,2023-07-10,Fantastic service! The delivery executive was very polite. Will update after more use.
+REV00183,Amazon,Electronics,5,positive,2023-05-14,10/10 product. Would strongly recommend to everyone. Ordered twice already.
+REV01092,Amazon,Electronics,4,positive,2024-01-10,"Crispy, hot and fresh! The fries were amazing. Will update after more use."
+REV00433,Swiggy,Chinese,3,neutral,2023-10-30,"Delivery was on time. Food was so-so, not great. Ordered twice already."
+REV00111,Swiggy,Burgers,1,negative,2023-12-22,Worst pizza I've ever had. Dough was raw from the inside. Ordered twice already.
+REV00371,Amazon,Sports,1,negative,2024-03-23,Arrived 90 minutes late. By then the food was in a terrible state. Not worth the money at all.
+REV00240,Amazon,Sports,4,positive,2024-06-15,Excellent experience overall. The app was smooth and order arrived on time. Highly recommend!
+REV00709,Swiggy,Burgers,3,neutral,2024-02-11,The service was fine. The food was neither special nor bad. Highly recommend!
+REV00630,Swiggy,Desserts,1,negative,2022-11-01,Horrible taste. Nothing like what was shown in the pictures. My family loves it.
+REV00594,Swiggy,Pizza,5,positive,2022-08-30,Fantastic service! The delivery executive was very polite. Very disappointed with this.
+REV00486,Swiggy,Burgers,5,positive,2022-12-08,"Wow, just wow! The product blew my mind completely. Will update after more use."
+REV00701,Swiggy,Burgers,5,positive,2025-09-01,Amazing quality for the price. Will definitely buy again! Very disappointed with this.
+REV00262,Amazon,Home Appliances,5,positive,2024-11-21,Amazing quality for the price. Will definitely buy again! Will update after more use.
+REV00480,Swiggy,Biryani,1,negative,2025-08-04,Arrived 90 minutes late. By then the food was in a terrible state. Overall a good choice.
+REV00650,Swiggy,Pizza,5,positive,2023-10-05,"Crispy, hot and fresh! The fries were amazing. Could be much better."
+REV00340,Zomato,Pizza,1,negative,2023-03-25,Extremely salty food. Couldn't eat more than one bite. Not worth the money at all.
+REV00669,Amazon,Sports,1,negative,2023-11-10,Very disappointed. The product looks nothing like the photos. Ordered twice already.
+REV00552,Zomato,Pizza,1,negative,2024-07-01,The food was cold and stale when it arrived. Totally unacceptable. Highly recommend!
+REV00459,Zomato,Continental,4,positive,2025-10-29,"The chicken was perfectly cooked, juicy and full of flavor. Ordered twice already."
+REV00184,Swiggy,Chinese,3,neutral,2023-04-23,Not impressed but not terrible either. Just average. Not worth the money at all.
+REV00138,Amazon,Clothing,1,negative,2024-01-11,Never received my order. And no refund either. Scammers! Could be much better.
+REV01161,Amazon,Beauty,5,positive,2023-05-31,Love the flavor! This has become my go-to comfort food. Could be much better.
+REV00707,Zomato,Biryani,5,positive,2024-07-20,Best biryani I've ever had. Highly recommend this restaurant. Very disappointed with this.
+REV00582,Amazon,Books,3,neutral,2025-10-18,Mediocre experience. Expected more for this price. Will update after more use.
+REV00081,Zomato,Pizza,4,neutral,2025-07-29,The service was fine. The food was neither special nor bad. Not worth the money at all.
+REV00769,Zomato,Biryani,1,negative,2024-07-10,Complete waste of money. The quality is very poor. Overall a good choice.
+REV00870,Swiggy,Pizza,2,negative,2025-01-15,Seller is a fraud. Sent a fake product instead of the original. Very disappointed with this.
+REV00762,Zomato,Chinese,4,positive,2024-08-23,Great taste and generous portions. Will order again! Will update after more use.
+REV00030,Amazon,Electronics,1,negative,2023-04-14,Horrible taste. Nothing like what was shown in the pictures.
+REV00542,Zomato,Continental,4,positive,2022-11-30,Excellent experience overall. The app was smooth and order arrived on time. Not worth the money at all.
+REV00166,Amazon,Beauty,2,negative,2023-03-25,The order was completely wrong. Got totally different food. Ordered twice already.
+REV00249,Swiggy,Pizza,5,positive,2022-10-09,5 stars! This is the best purchase I've made this year. Highly recommend!
+REV00308,Zomato,Burgers,5,positive,2025-04-30,No complaints at all. Everything was perfect from order to delivery. Will update after more use.
+REV00448,Amazon,Clothing,5,positive,2025-04-19,Super fast delivery and the item is exactly as described. Not worth the money at all.
+REV00347,Zomato,Biryani,2,neutral,2025-02-18,Acceptable but I've had better from other sellers.
+REV00335,Zomato,Burgers,2,negative,2022-06-27,Returned the product but didn't get any refund for weeks. Ordered twice already.
+REV00286,Swiggy,Chinese,2,negative,2022-12-04,Complete waste of money. The quality is very poor. Will update after more use.
+REV00950,Zomato,Indian,4,positive,2025-11-04,Tastes just like homemade. So glad I found this place! Overall a good choice.
+REV00098,Swiggy,Desserts,5,positive,2024-03-23,Absolutely loved this product! Exceeded all my expectations. My family loves it.
+REV00468,Amazon,Sports,3,neutral,2022-05-21,It's alright. Not as expected but manageable. Highly recommend!
+REV01037,Amazon,Beauty,5,positive,2024-08-05,Received the package on time. Very satisfied with the seller. Very disappointed with this.
+REV00913,Swiggy,Chinese,5,positive,2025-08-04,"Good product, solid build quality, very happy with this purchase."
+REV00756,Swiggy,Indian,3,neutral,2024-01-31,The taste was fine but the presentation was disappointing. Very disappointed with this.
+REV00945,Zomato,Burgers,4,positive,2024-03-31,10/10 product. Would strongly recommend to everyone. Very disappointed with this.
+REV00614,Amazon,Home Appliances,1,negative,2023-02-18,"The movie, the app, the everything — all terrible experience. Could be much better."
+REV00802,Zomato,Continental,5,positive,2023-05-22,Item was well packed and exactly as shown in the listing. Very disappointed with this.
+REV00758,Zomato,Biryani,5,positive,2025-03-27,Item was well packed and exactly as shown in the listing. Not worth the money at all.
+REV00689,Amazon,Clothing,5,positive,2023-03-29,10/10 product. Would strongly recommend to everyone. Highly recommend!
+REV00066,Amazon,Sports,4,positive,2022-01-04,"The chicken was perfectly cooked, juicy and full of flavor. My family loves it."
+REV00794,Zomato,Chinese,2,negative,2023-01-09,Never received my order. And no refund either. Scammers! Overall a good choice.
+REV00744,Swiggy,Continental,5,positive,2025-04-08,Super fast delivery and the item is exactly as described. Could be much better.
+REV00568,Zomato,Pizza,3,neutral,2024-10-03,It's okay. Nothing special but does the job. Will update after more use.
+REV01084,Amazon,Clothing,2,negative,2023-08-16,Arrived 90 minutes late. By then the food was in a terrible state. My family loves it.
+REV01099,Amazon,Books,2,negative,2022-06-06,Extremely salty food. Couldn't eat more than one bite. Very disappointed with this.
+REV00303,Swiggy,Chinese,4,positive,2025-02-07,Excellent experience overall. The app was smooth and order arrived on time. Ordered twice already.
+REV00255,Swiggy,Biryani,5,positive,2025-09-22,No complaints at all. Everything was perfect from order to delivery. Highly recommend!
+REV00959,Zomato,Continental,4,positive,2024-05-04,Outstanding product. Works perfectly and looks great. Ordered twice already.
+REV01024,Swiggy,Chinese,5,positive,2025-07-06,Item was well packed and exactly as shown in the listing. Very disappointed with this.
+REV00313,Swiggy,Indian,2,neutral,2022-02-08,Decent for the price but room for improvement. Not worth the money at all.
+REV00530,Amazon,Clothing,2,negative,2022-12-30,Packaging was broken and everything was spilled. Very bad! Ordered twice already.
+REV00222,Amazon,Sports,5,positive,2024-08-08,Item was well packed and exactly as shown in the listing. Very disappointed with this.
+REV00389,Amazon,Books,3,neutral,2024-02-12,Product arrived in decent shape. Does what it says. My family loves it.
+REV00236,Swiggy,Indian,2,negative,2024-11-07,Product is a complete scam. Nothing works as advertised. My family loves it.
+REV00810,Swiggy,Indian,2,negative,2023-12-30,Packaging was broken and everything was spilled. Very bad!
+REV00483,Amazon,Electronics,2,negative,2022-06-26,Product is a complete scam. Nothing works as advertised. Not worth the money at all.
+REV00713,Amazon,Clothing,4,positive,2024-01-12,10/10 product. Would strongly recommend to everyone. Highly recommend!
+REV00306,Amazon,Electronics,5,positive,2022-10-08,Received the package on time. Very satisfied with the seller.
+REV01111,Swiggy,Indian,5,positive,2024-10-29,Item was well packed and exactly as shown in the listing. Not worth the money at all.
+REV01090,Zomato,Desserts,5,positive,2024-02-04,Great taste and generous portions. Will order again! Overall a good choice.
+REV00772,Zomato,Pizza,1,negative,2025-10-10,Returned the product but didn't get any refund for weeks. Ordered twice already.
+REV00917,Amazon,Sports,4,neutral,2024-09-13,The taste was fine but the presentation was disappointing. Highly recommend!
+REV01139,Swiggy,Continental,4,positive,2025-03-09,Fantastic service! The delivery executive was very polite. My family loves it.
+REV00250,Amazon,Sports,5,positive,2024-07-07,"Wow, just wow! The product blew my mind completely. Very disappointed with this."
+REV00760,Zomato,Indian,5,positive,2024-07-31,Very happy with this purchase. The quality is top-notch. Could be much better.
+REV00595,Swiggy,Indian,1,negative,2023-02-03,Returned the product but didn't get any refund for weeks. Very disappointed with this.
+REV00072,Zomato,Biryani,5,positive,2024-06-24,"The chicken was perfectly cooked, juicy and full of flavor. Very disappointed with this."
+REV00095,Swiggy,Chinese,4,neutral,2022-09-16,"Food was average. Some items were tasty, some were not. Not worth the money at all."
+REV00546,Amazon,Home Appliances,4,positive,2023-01-25,Very impressed with the quality. Packaging was also very good. Not worth the money at all.
+REV00034,Amazon,Sports,5,positive,2022-05-05,Tastes just like homemade. So glad I found this place! Overall a good choice.
+REV00862,Zomato,Burgers,5,positive,2023-10-09,10/10 product. Would strongly recommend to everyone. Overall a good choice.
+REV00579,Amazon,Sports,5,positive,2024-08-28,10/10 product. Would strongly recommend to everyone.
+REV00449,Zomato,Chinese,2,negative,2023-02-28,Extremely salty food. Couldn't eat more than one bite. Highly recommend!
+REV00446,Zomato,Burgers,3,neutral,2024-05-20,Average product. Neither good nor bad. Just decent. Not worth the money at all.
+REV00260,Swiggy,Chinese,5,positive,2025-11-25,Great value for money. Works as advertised. Very disappointed with this.
+REV00205,Swiggy,Desserts,1,negative,2022-07-07,The product broke on the very first use. Pathetic quality.
+REV00573,Amazon,Clothing,2,negative,2023-02-16,Customer service is non-existent. Absolute zero support. Not worth the money at all.
+REV00824,Amazon,Sports,1,negative,2022-06-13,Very disappointed. The product looks nothing like the photos. Very disappointed with this.
+REV00586,Swiggy,Pizza,5,positive,2022-11-04,"Crispy, hot and fresh! The fries were amazing. Not worth the money at all."
+REV00366,Amazon,Books,1,negative,2023-06-07,Seller is a fraud. Sent a fake product instead of the original. Not worth the money at all.
+REV00812,Zomato,Continental,5,positive,2023-01-31,Great value for money. Works as advertised. Very disappointed with this.
+REV00078,Amazon,Beauty,5,positive,2022-09-06,"Crispy, hot and fresh! The fries were amazing. Not worth the money at all."
+REV00085,Zomato,Indian,5,positive,2024-05-10,Fantastic service! The delivery executive was very polite. Not worth the money at all.
+REV00539,Zomato,Indian,2,negative,2023-03-06,Product is a complete scam. Nothing works as advertised. Will update after more use.
+REV00083,Zomato,Pizza,4,positive,2022-06-15,Loved the food quality. Perfect spice level and very fresh. Could be much better.
+REV00458,Zomato,Pizza,5,positive,2023-08-04,Very impressed with the quality. Packaging was also very good. Ordered twice already.
+REV01138,Zomato,Indian,4,positive,2022-12-14,"Crispy, hot and fresh! The fries were amazing. Ordered twice already."
+REV00615,Amazon,Beauty,4,positive,2023-03-02,Very impressed with the quality. Packaging was also very good. Very disappointed with this.
+REV01186,Zomato,Desserts,5,positive,2024-05-06,Best biryani I've ever had. Highly recommend this restaurant. Not worth the money at all.
+REV01076,Zomato,Chinese,2,negative,2023-10-13,Very disappointed. The product looks nothing like the photos. Very disappointed with this.
+REV00737,Amazon,Clothing,4,positive,2025-05-14,10/10 product. Would strongly recommend to everyone. Very disappointed with this.
+REV00437,Amazon,Clothing,4,positive,2025-11-21,5 stars! This is the best purchase I've made this year. Ordered twice already.
+REV00555,Amazon,Books,3,neutral,2024-05-07,Not impressed but not terrible either. Just average. Could be much better.
+REV01080,Swiggy,Biryani,2,neutral,2022-10-13,The flavors were okay but nothing to rave about. My family loves it.
+REV01062,Zomato,Chinese,5,positive,2023-04-10,Loved the food quality. Perfect spice level and very fresh. Will update after more use.
+REV00351,Swiggy,Desserts,5,positive,2024-02-06,Outstanding product. Works perfectly and looks great. My family loves it.
+REV00197,Amazon,Sports,4,positive,2022-09-24,Super fast delivery and the item is exactly as described. Ordered twice already.
+REV00465,Swiggy,Desserts,1,negative,2022-01-20,Received a damaged item and customer support was useless. Very disappointed with this.
+REV00589,Swiggy,Continental,5,positive,2023-12-04,Amazing quality for the price. Will definitely buy again! Not worth the money at all.
+REV00006,Amazon,Sports,5,positive,2025-01-03,"Good product, solid build quality, very happy with this purchase. Very disappointed with this."
+REV00311,Swiggy,Continental,1,negative,2022-04-16,The food was burnt on one side and raw on the other. Shocking! Not worth the money at all.
+REV00662,Swiggy,Burgers,1,negative,2023-02-01,Returned the product but didn't get any refund for weeks. Not worth the money at all.
+REV00405,Amazon,Sports,5,positive,2023-05-13,Very impressed with the quality. Packaging was also very good. Could be much better.
+REV01196,Zomato,Pizza,3,neutral,2025-06-09,Nothing extraordinary. Just a regular experience. Will update after more use.
+REV01044,Amazon,Books,2,negative,2022-10-11,Way overpriced for the terrible quality they delivered. Very disappointed with this.
+REV01058,Amazon,Books,5,positive,2024-05-10,Very happy with this purchase. The quality is top-notch. Ordered twice already.
+REV00105,Zomato,Chinese,3,neutral,2025-03-13,"Delivery was on time. Food was so-so, not great. Very disappointed with this."
+REV00537,Swiggy,Indian,1,negative,2022-10-16,The food was burnt on one side and raw on the other. Shocking! Very disappointed with this.
+REV00606,Zomato,Pizza,3,neutral,2022-12-04,It's alright. Not as expected but manageable. Not worth the money at all.
+REV00063,Swiggy,Pizza,5,positive,2022-08-25,Received the package on time. Very satisfied with the seller.
+REV00282,Swiggy,Chinese,5,positive,2022-05-15,"The chicken was perfectly cooked, juicy and full of flavor. Overall a good choice."
+REV01056,Amazon,Electronics,4,neutral,2023-07-20,The flavors were okay but nothing to rave about. Highly recommend!
+REV00239,Amazon,Sports,2,negative,2025-06-19,Product is a complete scam. Nothing works as advertised. Ordered twice already.
+REV00224,Zomato,Desserts,4,positive,2023-07-17,Tastes just like homemade. So glad I found this place! Will update after more use.
+REV00146,Amazon,Home Appliances,4,positive,2025-04-17,Received the package on time. Very satisfied with the seller. Will update after more use.
+REV01119,Swiggy,Desserts,1,negative,2022-09-02,Worst purchase ever. Do not buy this garbage. Overall a good choice.
+REV00374,Zomato,Chinese,3,neutral,2023-10-03,The service was fine. The food was neither special nor bad. Ordered twice already.
+REV00119,Amazon,Beauty,5,positive,2022-11-07,Super fast delivery and the item is exactly as described.
+REV00803,Swiggy,Continental,1,negative,2024-12-03,Complete waste of money. The quality is very poor. Overall a good choice.
+REV00251,Amazon,Clothing,1,negative,2025-05-31,Very disappointed. The product looks nothing like the photos. Could be much better.
+REV01157,Zomato,Desserts,5,positive,2022-12-27,Great taste and generous portions. Will order again! Could be much better.
+REV00010,Swiggy,Desserts,5,positive,2025-06-01,Best biryani I've ever had. Highly recommend this restaurant. Overall a good choice.
+REV00450,Swiggy,Pizza,3,neutral,2022-12-11,Average product. Neither good nor bad. Just decent. Could be much better.
+REV00874,Zomato,Biryani,5,positive,2023-09-14,Outstanding product. Works perfectly and looks great. My family loves it.
+REV00390,Swiggy,Chinese,2,negative,2024-10-20,Complete waste of money. The quality is very poor. Overall a good choice.
+REV00966,Swiggy,Biryani,1,negative,2022-10-18,Extremely salty food. Couldn't eat more than one bite. Overall a good choice.
+REV00461,Zomato,Chinese,5,positive,2025-08-24,Absolutely loved this product! Exceeded all my expectations. Highly recommend!
+REV01147,Zomato,Desserts,4,neutral,2023-10-04,Order was slightly delayed but food was alright. Could be much better.
+REV00145,Amazon,Electronics,3,neutral,2024-04-29,Order was slightly delayed but food was alright. Will update after more use.
+REV00502,Swiggy,Biryani,5,positive,2024-07-27,Delivery was super quick and the packaging was excellent. Ordered twice already.
+REV01108,Swiggy,Pizza,5,positive,2022-11-25,Love the flavor! This has become my go-to comfort food. Ordered twice already.
+REV00540,Amazon,Sports,5,positive,2022-04-09,Super fast delivery and the item is exactly as described.
+REV00178,Zomato,Desserts,3,neutral,2024-05-08,It's alright. Not as expected but manageable. Could be much better.
+REV01159,Zomato,Continental,3,neutral,2024-04-13,"Delivery was on time. Food was so-so, not great. Overall a good choice."
+REV01051,Swiggy,Biryani,3,neutral,2023-04-07,Decent for the price but room for improvement. Not worth the money at all.
+REV00584,Swiggy,Burgers,3,neutral,2023-09-04,Mediocre experience. Expected more for this price. Will update after more use.
+REV01195,Zomato,Indian,1,negative,2024-10-19,Received a damaged item and customer support was useless. Highly recommend!
+REV00008,Amazon,Home Appliances,4,positive,2023-04-22,Super fast delivery and the item is exactly as described. Overall a good choice.
+REV00574,Amazon,Home Appliances,2,neutral,2023-07-16,Decent for the price but room for improvement. Not worth the money at all.
+REV00843,Amazon,Sports,5,positive,2025-07-22,5 stars! This is the best purchase I've made this year.
+REV00358,Swiggy,Desserts,5,positive,2023-05-17,Amazing quality for the price. Will definitely buy again!
+REV00330,Zomato,Indian,5,positive,2023-09-04,Love the flavor! This has become my go-to comfort food.
+REV00705,Amazon,Sports,5,positive,2024-01-05,"The chicken was perfectly cooked, juicy and full of flavor. Very disappointed with this."
+REV00830,Amazon,Clothing,1,negative,2025-01-31,Delivery partner was rude and dropped the bag from far. Highly recommend!
+REV00259,Swiggy,Desserts,5,positive,2022-10-01,Very happy with this purchase. The quality is top-notch. Ordered twice already.
+REV00891,Swiggy,Continental,5,positive,2022-09-11,Fantastic service! The delivery executive was very polite. Highly recommend!
+REV00834,Swiggy,Pizza,2,negative,2024-07-15,The product broke on the very first use. Pathetic quality. Ordered twice already.
+REV01188,Amazon,Electronics,5,positive,2022-09-30,Very happy with this purchase. The quality is top-notch. Very disappointed with this.
+REV00905,Swiggy,Indian,3,neutral,2024-08-22,Decent product overall. Would maybe try alternatives next time. Will update after more use.
+REV00526,Amazon,Clothing,3,neutral,2025-04-28,Food quantity was okay but the quality could be better. Not worth the money at all.
+REV00814,Swiggy,Biryani,1,negative,2025-03-06,Never received my order. And no refund either. Scammers! Not worth the money at all.
+REV00732,Swiggy,Biryani,5,positive,2024-04-26,"Good product, solid build quality, very happy with this purchase. Not worth the money at all."
+REV01032,Zomato,Chinese,1,negative,2025-06-02,"The movie, the app, the everything — all terrible experience. Not worth the money at all."
+REV01141,Amazon,Books,5,positive,2025-11-15,Excellent experience overall. The app was smooth and order arrived on time. Overall a good choice.
+REV00441,Zomato,Burgers,2,neutral,2025-08-30,The taste was fine but the presentation was disappointing. Could be much better.
+REV00532,Zomato,Desserts,4,neutral,2025-04-15,Mediocre experience. Expected more for this price. My family loves it.
+REV00960,Amazon,Electronics,4,positive,2022-10-22,Very happy with this purchase. The quality is top-notch.
+REV00229,Amazon,Beauty,5,positive,2022-03-22,Fantastic service! The delivery executive was very polite. Highly recommend!
+REV01041,Zomato,Biryani,5,positive,2022-06-20,"Crispy, hot and fresh! The fries were amazing. Not worth the money at all."
+REV00213,Amazon,Books,5,positive,2025-12-12,Love the flavor! This has become my go-to comfort food. Could be much better.
+REV00080,Zomato,Continental,2,negative,2024-07-02,Product is a complete scam. Nothing works as advertised. Could be much better.
+REV00149,Amazon,Books,3,neutral,2023-10-14,Decent for the price but room for improvement.
+REV00592,Swiggy,Continental,5,positive,2023-01-10,Outstanding product. Works perfectly and looks great. Could be much better.
+REV00708,Zomato,Indian,4,neutral,2025-07-21,Average product. Neither good nor bad. Just decent. Could be much better.
+REV00590,Swiggy,Continental,2,negative,2025-10-07,Horrible taste. Nothing like what was shown in the pictures. Very disappointed with this.
+REV00134,Swiggy,Biryani,4,positive,2022-07-06,Great taste and generous portions. Will order again! Very disappointed with this.
+REV00782,Zomato,Pizza,5,positive,2023-05-22,10/10 product. Would strongly recommend to everyone. Not worth the money at all.
+REV00409,Zomato,Indian,1,negative,2023-11-12,Disgusting! The food smelled awful and tasted even worse. My family loves it.
+REV00970,Swiggy,Desserts,2,negative,2024-05-12,Customer service is non-existent. Absolute zero support. Ordered twice already.
+REV00508,Zomato,Pizza,3,neutral,2022-07-05,"Food was average. Some items were tasty, some were not. Overall a good choice."
+REV00877,Amazon,Sports,1,negative,2024-01-06,Horrible taste. Nothing like what was shown in the pictures.
+REV00505,Swiggy,Pizza,3,neutral,2024-07-16,Food quantity was okay but the quality could be better. Ordered twice already.
+REV00719,Zomato,Chinese,5,positive,2024-04-21,No complaints at all. Everything was perfect from order to delivery. Not worth the money at all.
+REV00348,Zomato,Pizza,2,negative,2023-03-23,The order was completely wrong. Got totally different food.
+REV00387,Amazon,Home Appliances,3,neutral,2024-07-29,Nothing extraordinary. Just a regular experience. My family loves it.
+REV00001,Amazon,Clothing,2,negative,2022-07-29,Terrible product. Stopped working after just 2 days of use. Highly recommend!
+REV00361,Amazon,Home Appliances,2,negative,2025-09-14,Delivery partner was rude and dropped the bag from far. Highly recommend!
+REV01134,Zomato,Burgers,5,positive,2023-08-06,Great taste and generous portions. Will order again! Ordered twice already.
+REV00476,Amazon,Home Appliances,2,negative,2022-09-28,Customer service is non-existent. Absolute zero support. Ordered twice already.
+REV00778,Amazon,Sports,5,positive,2025-09-17,"The food was absolutely delicious, fresh and hot on arrival! Not worth the money at all."
+REV00754,Zomato,Chinese,2,negative,2023-02-20,Horrible taste. Nothing like what was shown in the pictures. Not worth the money at all.
+REV00173,Swiggy,Indian,4,positive,2024-01-25,Excellent experience overall. The app was smooth and order arrived on time. Very disappointed with this.
+REV00451,Swiggy,Pizza,4,positive,2025-10-23,"Crispy, hot and fresh! The fries were amazing. Could be much better."
+REV00126,Amazon,Sports,2,negative,2023-06-26,Extremely salty food. Couldn't eat more than one bite. Not worth the money at all.
+REV00931,Zomato,Pizza,3,neutral,2023-10-16,Works as described but the build feel is a bit cheap. Could be much better.
+REV00531,Amazon,Beauty,2,neutral,2022-08-16,Works as described but the build feel is a bit cheap. Highly recommend!
+REV00091,Zomato,Chinese,1,negative,2023-01-08,Terrible product. Stopped working after just 2 days of use. Very disappointed with this.
+REV01162,Amazon,Home Appliances,1,negative,2025-04-11,Very disappointed. The product looks nothing like the photos. Ordered twice already.
+REV00182,Amazon,Books,4,positive,2025-09-19,Excellent experience overall. The app was smooth and order arrived on time. Overall a good choice.
+REV01027,Zomato,Indian,5,positive,2022-04-18,Great taste and generous portions. Will order again! Overall a good choice.
+REV01000,Zomato,Indian,5,positive,2024-01-06,Excellent experience overall. The app was smooth and order arrived on time. Could be much better.
+REV00252,Amazon,Home Appliances,2,negative,2022-04-08,Worst purchase ever. Do not buy this garbage. Overall a good choice.
+REV00070,Zomato,Desserts,5,positive,2025-06-14,Very impressed with the quality. Packaging was also very good. Highly recommend!
+REV00132,Swiggy,Continental,4,positive,2025-10-08,Super fast delivery and the item is exactly as described.
+REV00301,Swiggy,Desserts,5,positive,2023-08-09,"Wow, just wow! The product blew my mind completely. Very disappointed with this."
+REV01133,Zomato,Burgers,1,negative,2024-11-03,Never received my order. And no refund either. Scammers! Highly recommend!
+REV00327,Amazon,Home Appliances,5,positive,2023-08-08,"Wow, just wow! The product blew my mind completely. Ordered twice already."
+REV01020,Amazon,Clothing,3,neutral,2025-08-03,Decent product overall. Would maybe try alternatives next time. Highly recommend!
+REV00500,Swiggy,Pizza,2,negative,2023-02-25,The product broke on the very first use. Pathetic quality. Overall a good choice.
+REV00666,Swiggy,Burgers,5,positive,2024-10-01,Fantastic service! The delivery executive was very polite. Will update after more use.
+REV00919,Zomato,Burgers,4,neutral,2025-02-11,Average product. Neither good nor bad. Just decent. Ordered twice already.
+REV00496,Zomato,Chinese,5,positive,2025-02-28,Great value for money. Works as advertised. Will update after more use.
+REV00339,Zomato,Desserts,1,negative,2025-12-11,Disgusting! The food smelled awful and tasted even worse. Could be much better.
+REV00964,Zomato,Continental,4,positive,2025-12-29,No complaints at all. Everything was perfect from order to delivery. Not worth the money at all.
+REV00165,Amazon,Beauty,3,neutral,2025-05-26,Middle of the road experience. Nothing special happened.
+REV00029,Amazon,Electronics,2,neutral,2022-02-13,Acceptable but I've had better from other sellers. Ordered twice already.
+REV00517,Amazon,Books,5,positive,2022-12-20,Love the flavor! This has become my go-to comfort food. My family loves it.
+REV00194,Swiggy,Indian,1,negative,2023-03-17,The food was burnt on one side and raw on the other. Shocking! Could be much better.
+REV01104,Zomato,Continental,1,negative,2022-03-29,Worst purchase ever. Do not buy this garbage. My family loves it.
+REV00170,Zomato,Burgers,5,positive,2023-07-13,Great value for money. Works as advertised. Could be much better.
+REV01059,Amazon,Electronics,4,positive,2023-04-21,10/10 product. Would strongly recommend to everyone.
+REV00174,Zomato,Continental,1,negative,2022-08-10,Delivery partner was rude and dropped the bag from far. Ordered twice already.
+REV00519,Zomato,Biryani,2,negative,2024-09-08,Horrible taste. Nothing like what was shown in the pictures. Could be much better.
+REV00969,Amazon,Home Appliances,1,negative,2022-01-23,Way overpriced for the terrible quality they delivered. Could be much better.
+REV00702,Swiggy,Desserts,1,negative,2022-10-02,Worst pizza I've ever had. Dough was raw from the inside. Will update after more use.
+REV00492,Amazon,Beauty,4,positive,2023-04-05,Outstanding product. Works perfectly and looks great. My family loves it.
+REV00074,Amazon,Clothing,2,negative,2023-04-06,Returned the product but didn't get any refund for weeks. Will update after more use.
+REV00981,Zomato,Chinese,5,positive,2024-06-09,"Crispy, hot and fresh! The fries were amazing. Could be much better."
+REV00588,Zomato,Pizza,5,positive,2024-04-08,Absolutely loved this product! Exceeded all my expectations. My family loves it.
+REV00235,Zomato,Desserts,1,negative,2022-09-19,Very disappointed. The product looks nothing like the photos. Ordered twice already.
+REV00215,Zomato,Burgers,5,positive,2025-03-20,Tastes just like homemade. So glad I found this place! My family loves it.
+REV00947,Swiggy,Biryani,5,positive,2025-03-07,Best biryani I've ever had. Highly recommend this restaurant. My family loves it.
+REV00133,Amazon,Books,2,neutral,2025-08-27,Not impressed but not terrible either. Just average. Could be much better.
+REV01156,Amazon,Clothing,3,neutral,2023-07-13,Product is functional but not premium by any means. Highly recommend!
+REV00733,Zomato,Burgers,1,negative,2024-09-17,Never received my order. And no refund either. Scammers! Could be much better.
+REV00941,Swiggy,Pizza,4,positive,2024-03-13,Delivery was super quick and the packaging was excellent. Ordered twice already.
+REV00186,Amazon,Electronics,3,neutral,2022-09-27,"Mixed experience. Some things were good, some were not."
+REV00042,Zomato,Burgers,1,negative,2022-11-19,Complete waste of money. The quality is very poor. Could be much better.
+REV00109,Swiggy,Biryani,1,negative,2022-02-05,Extremely salty food. Couldn't eat more than one bite. Very disappointed with this.
+REV00849,Amazon,Books,2,negative,2023-02-10,Arrived 90 minutes late. By then the food was in a terrible state. Could be much better.
+REV00569,Amazon,Clothing,2,neutral,2024-06-26,Middle of the road experience. Nothing special happened. Will update after more use.
+REV00651,Amazon,Clothing,2,negative,2025-11-07,Never received my order. And no refund either. Scammers! Will update after more use.
+REV01001,Swiggy,Desserts,5,positive,2024-01-19,Loved the food quality. Perfect spice level and very fresh. Overall a good choice.
+REV01166,Amazon,Home Appliances,2,negative,2024-01-24,Found a hair in my food. Absolutely disgusting! Very disappointed with this.
+REV00484,Swiggy,Indian,3,neutral,2025-09-26,Would have been better with slightly better packaging. Will update after more use.
+REV00469,Amazon,Books,2,negative,2023-03-13,Terrible product. Stopped working after just 2 days of use. Ordered twice already.
+REV00025,Amazon,Sports,5,positive,2022-05-22,"The chicken was perfectly cooked, juicy and full of flavor. Very disappointed with this."
+REV00661,Zomato,Continental,4,positive,2025-07-21,Great taste and generous portions. Will order again! Not worth the money at all.
+REV00680,Zomato,Burgers,4,positive,2025-03-23,Super fast delivery and the item is exactly as described. Overall a good choice.
+REV00753,Zomato,Chinese,5,positive,2024-10-18,Best biryani I've ever had. Highly recommend this restaurant. Not worth the money at all.
+REV00994,Amazon,Beauty,5,positive,2023-01-01,Super fast delivery and the item is exactly as described. My family loves it.
+REV00367,Zomato,Continental,4,positive,2022-07-09,10/10 product. Would strongly recommend to everyone. Ordered twice already.
+REV00840,Swiggy,Indian,2,negative,2024-09-15,Way overpriced for the terrible quality they delivered. Ordered twice already.
+REV01053,Swiggy,Continental,5,positive,2024-08-20,Tastes just like homemade. So glad I found this place! Overall a good choice.
+REV00384,Amazon,Beauty,5,positive,2025-01-02,Great value for money. Works as advertised. Will update after more use.
+REV00455,Amazon,Books,2,negative,2023-07-24,Returned the product but didn't get any refund for weeks. Could be much better.
+REV00265,Swiggy,Biryani,2,negative,2023-11-26,Seller is a fraud. Sent a fake product instead of the original. My family loves it.
+REV00761,Amazon,Books,4,positive,2023-10-29,Absolutely loved this product! Exceeded all my expectations. Overall a good choice.
+REV00980,Zomato,Biryani,5,positive,2023-04-24,Tastes just like homemade. So glad I found this place! Could be much better.
+REV00445,Swiggy,Continental,1,negative,2025-01-15,Way overpriced for the terrible quality they delivered. Ordered twice already.
+REV00396,Swiggy,Chinese,3,neutral,2024-10-22,Works as described but the build feel is a bit cheap. Overall a good choice.
+REV00742,Amazon,Electronics,5,positive,2024-03-29,Delivery was super quick and the packaging was excellent. Will update after more use.
+REV00177,Zomato,Indian,5,positive,2023-04-26,Amazing quality for the price. Will definitely buy again! Overall a good choice.
+REV00019,Swiggy,Continental,3,neutral,2025-10-25,Order was slightly delayed but food was alright.
+REV00949,Swiggy,Biryani,1,negative,2025-02-10,"The movie, the app, the everything — all terrible experience. Ordered twice already."
+REV00815,Zomato,Pizza,5,positive,2022-11-25,"Good product, solid build quality, very happy with this purchase. Could be much better."
+REV00596,Zomato,Biryani,1,negative,2022-11-05,Delivery partner was rude and dropped the bag from far.
+REV00062,Zomato,Pizza,4,positive,2023-07-26,Very happy with this purchase. The quality is top-notch. Overall a good choice.
+REV00273,Zomato,Burgers,5,positive,2025-05-24,10/10 product. Would strongly recommend to everyone.
+REV01126,Swiggy,Pizza,1,negative,2023-09-13,The food was cold and stale when it arrived. Totally unacceptable. Highly recommend!
+REV00279,Swiggy,Indian,3,neutral,2025-01-15,Works as described but the build feel is a bit cheap. Could be much better.
+REV00842,Amazon,Home Appliances,1,negative,2024-06-08,Way overpriced for the terrible quality they delivered. Ordered twice already.
+REV00369,Swiggy,Burgers,5,positive,2024-09-08,Item was well packed and exactly as shown in the listing. Not worth the money at all.
+REV00887,Zomato,Biryani,5,positive,2024-05-15,Excellent experience overall. The app was smooth and order arrived on time. Highly recommend!
+REV01015,Swiggy,Chinese,3,neutral,2022-05-10,"Food was average. Some items were tasty, some were not. Ordered twice already."
+REV00860,Amazon,Books,5,positive,2022-05-17,"Crispy, hot and fresh! The fries were amazing."
+REV00721,Zomato,Burgers,5,positive,2023-04-16,Very happy with this purchase. The quality is top-notch. Overall a good choice.
+REV00826,Zomato,Burgers,2,negative,2022-05-25,Complete waste of money. The quality is very poor.
+REV00548,Zomato,Burgers,4,positive,2024-10-02,Delivery was super quick and the packaging was excellent. Could be much better.
+REV00880,Amazon,Home Appliances,5,positive,2023-04-01,Amazing quality for the price. Will definitely buy again! My family loves it.
+REV00900,Amazon,Electronics,2,negative,2022-10-31,Never received my order. And no refund either. Scammers! Highly recommend!
+REV00457,Swiggy,Pizza,2,negative,2024-12-30,Disgusting! The food smelled awful and tasted even worse. Overall a good choice.
+REV00394,Amazon,Beauty,2,neutral,2025-12-30,Works as described but the build feel is a bit cheap. Highly recommend!
+REV00676,Amazon,Sports,3,neutral,2023-03-08,Decent product overall. Would maybe try alternatives next time. Overall a good choice.
+REV00912,Amazon,Beauty,2,negative,2024-04-27,Worst purchase ever. Do not buy this garbage. My family loves it.
+REV00965,Swiggy,Pizza,2,negative,2022-03-19,Seller is a fraud. Sent a fake product instead of the original.
+REV00376,Zomato,Pizza,1,negative,2023-02-06,Way overpriced for the terrible quality they delivered. Highly recommend!
+REV00413,Swiggy,Continental,1,negative,2023-10-30,Returned the product but didn't get any refund for weeks. Not worth the money at all.
+REV00075,Amazon,Books,2,neutral,2024-07-21,It's alright. Not as expected but manageable. Overall a good choice.
+REV01122,Zomato,Continental,5,positive,2025-08-11,Very impressed with the quality. Packaging was also very good. Will update after more use.
+REV00863,Amazon,Clothing,1,negative,2024-07-26,The food was burnt on one side and raw on the other. Shocking! Could be much better.
+REV00501,Amazon,Clothing,1,negative,2022-07-10,Horrible taste. Nothing like what was shown in the pictures. Will update after more use.
+REV00942,Zomato,Biryani,5,positive,2022-03-03,Very happy with this purchase. The quality is top-notch. Very disappointed with this.
+REV00617,Amazon,Beauty,3,neutral,2022-07-27,Middle of the road experience. Nothing special happened. Overall a good choice.
+REV00115,Amazon,Home Appliances,3,neutral,2025-12-21,The flavors were okay but nothing to rave about.
+REV00418,Zomato,Burgers,5,positive,2025-11-17,No complaints at all. Everything was perfect from order to delivery. Could be much better.
+REV00602,Swiggy,Chinese,3,neutral,2025-10-17,Works as described but the build feel is a bit cheap.
+REV00605,Swiggy,Burgers,3,neutral,2024-06-07,Acceptable but I've had better from other sellers. Ordered twice already.
+REV00090,Swiggy,Indian,4,neutral,2025-04-27,It's alright. Not as expected but manageable. My family loves it.
+REV01149,Amazon,Beauty,3,neutral,2023-03-13,Product arrived in decent shape. Does what it says. Very disappointed with this.
+REV00499,Swiggy,Indian,5,positive,2022-01-03,Great value for money. Works as advertised. Ordered twice already.
+REV00876,Swiggy,Burgers,5,positive,2025-05-25,Absolutely loved this product! Exceeded all my expectations. Will update after more use.
+REV00927,Swiggy,Desserts,2,negative,2023-02-25,Worst purchase ever. Do not buy this garbage. Highly recommend!
+REV00999,Zomato,Biryani,1,negative,2025-01-11,Arrived 90 minutes late. By then the food was in a terrible state. Overall a good choice.
+REV00012,Amazon,Sports,3,neutral,2022-04-25,Product arrived in decent shape. Does what it says. Ordered twice already.
+REV00397,Zomato,Chinese,1,negative,2023-11-29,Worst pizza I've ever had. Dough was raw from the inside. Overall a good choice.
+REV00755,Amazon,Electronics,3,neutral,2025-10-16,Got what I paid for. Quality matches the price I guess. Overall a good choice.
+REV00556,Zomato,Burgers,4,neutral,2024-09-02,Middle of the road experience. Nothing special happened. Not worth the money at all.
+REV00043,Amazon,Electronics,4,positive,2025-10-14,Received the package on time. Very satisfied with the seller. Overall a good choice.
+REV00168,Zomato,Continental,5,positive,2022-03-10,10/10 product. Would strongly recommend to everyone. Very disappointed with this.
+REV00417,Amazon,Sports,1,negative,2024-02-12,Horrible taste. Nothing like what was shown in the pictures. My family loves it.
+REV00577,Swiggy,Indian,5,positive,2022-02-26,Great taste and generous portions. Will order again! Will update after more use.
+REV00268,Swiggy,Pizza,4,positive,2024-07-02,5 stars! This is the best purchase I've made this year. Will update after more use.
+REV00808,Swiggy,Continental,2,negative,2025-11-10,Terrible product. Stopped working after just 2 days of use. Very disappointed with this.
+REV00427,Zomato,Pizza,2,negative,2023-09-07,Disgusting! The food smelled awful and tasted even worse. Overall a good choice.
+REV00691,Swiggy,Indian,1,negative,2022-07-21,Never received my order. And no refund either. Scammers! Will update after more use.
+REV00545,Swiggy,Indian,2,negative,2025-08-31,The food was burnt on one side and raw on the other. Shocking! My family loves it.
+REV01123,Swiggy,Biryani,3,neutral,2024-11-13,Mediocre experience. Expected more for this price. Very disappointed with this.
+REV00675,Swiggy,Indian,4,positive,2022-12-09,10/10 product. Would strongly recommend to everyone. Overall a good choice.
+REV00690,Amazon,Sports,1,negative,2025-01-29,Found a hair in my food. Absolutely disgusting!
+REV01055,Zomato,Indian,2,neutral,2024-03-11,"Delivery was on time. Food was so-so, not great. Overall a good choice."
+REV01177,Amazon,Electronics,5,positive,2023-05-27,Loved the food quality. Perfect spice level and very fresh. Highly recommend!
+REV01033,Zomato,Desserts,1,negative,2025-07-18,The product broke on the very first use. Pathetic quality. Not worth the money at all.
+REV01035,Amazon,Home Appliances,5,positive,2023-08-28,Tastes just like homemade. So glad I found this place! Not worth the money at all.
+REV00258,Amazon,Home Appliances,1,negative,2023-12-08,Worst pizza I've ever had. Dough was raw from the inside. Overall a good choice.
+REV00336,Amazon,Books,4,positive,2023-05-24,5 stars! This is the best purchase I've made this year. Ordered twice already.
+REV00016,Swiggy,Biryani,1,negative,2023-03-26,Product is a complete scam. Nothing works as advertised. Ordered twice already.
+REV00902,Amazon,Clothing,2,neutral,2025-06-05,Average product. Neither good nor bad. Just decent. Will update after more use.
+REV00325,Amazon,Electronics,1,negative,2024-04-26,Customer service is non-existent. Absolute zero support. Overall a good choice.
+REV00608,Amazon,Home Appliances,1,negative,2024-02-08,Way overpriced for the terrible quality they delivered.
+REV01054,Zomato,Biryani,2,negative,2025-10-10,Delivery partner was rude and dropped the bag from far. Ordered twice already.
+REV00791,Amazon,Beauty,1,negative,2023-01-22,The food was burnt on one side and raw on the other. Shocking! Ordered twice already.
+REV00223,Swiggy,Burgers,1,negative,2025-07-08,Arrived 90 minutes late. By then the food was in a terrible state. Ordered twice already.
+REV00180,Zomato,Chinese,1,negative,2024-06-29,Found a hair in my food. Absolutely disgusting! Very disappointed with this.
+REV00100,Swiggy,Continental,2,negative,2025-03-05,The order was completely wrong. Got totally different food. Overall a good choice.
+REV00522,Swiggy,Burgers,1,negative,2024-03-06,"The movie, the app, the everything — all terrible experience. Ordered twice already."
+REV00023,Swiggy,Continental,5,positive,2022-01-02,"Good product, solid build quality, very happy with this purchase. Could be much better."
+REV00357,Amazon,Clothing,3,neutral,2022-05-18,Product is functional but not premium by any means. Not worth the money at all.
+REV00734,Swiggy,Biryani,5,positive,2025-09-12,Loved the food quality. Perfect spice level and very fresh. Highly recommend!
+REV01094,Amazon,Beauty,4,positive,2025-01-18,10/10 product. Would strongly recommend to everyone. Highly recommend!
+REV01112,Swiggy,Chinese,3,neutral,2025-10-11,The taste was fine but the presentation was disappointing. Very disappointed with this.
+REV00612,Zomato,Burgers,5,positive,2024-05-07,5 stars! This is the best purchase I've made this year. Highly recommend!
+REV01010,Swiggy,Indian,2,negative,2025-12-07,"The movie, the app, the everything — all terrible experience. Not worth the money at all."
+REV00341,Swiggy,Burgers,2,neutral,2024-05-01,The taste was fine but the presentation was disappointing. Ordered twice already.
+REV00432,Amazon,Clothing,1,negative,2025-12-12,The product broke on the very first use. Pathetic quality. Will update after more use.
+REV00962,Swiggy,Burgers,4,neutral,2025-06-30,Acceptable but I've had better from other sellers. My family loves it.
+REV00218,Zomato,Burgers,3,neutral,2024-03-21,Decent for the price but room for improvement. Overall a good choice.
+REV00204,Zomato,Indian,2,negative,2022-10-21,The order was completely wrong. Got totally different food. Highly recommend!
+REV00906,Zomato,Burgers,5,positive,2024-12-10,"Crispy, hot and fresh! The fries were amazing. My family loves it."
+REV00923,Amazon,Home Appliances,4,positive,2023-09-12,Very impressed with the quality. Packaging was also very good. Very disappointed with this.
+REV00094,Amazon,Sports,4,positive,2022-03-05,"Good product, solid build quality, very happy with this purchase."
+REV00911,Amazon,Electronics,5,positive,2024-08-10,Loved the food quality. Perfect spice level and very fresh.
+REV00069,Zomato,Desserts,1,negative,2025-02-09,Delivery partner was rude and dropped the bag from far. Will update after more use.
+REV00895,Amazon,Books,3,neutral,2023-09-26,The product works fine but could be improved in some areas. Will update after more use.
+REV00285,Swiggy,Chinese,5,positive,2024-06-05,Item was well packed and exactly as shown in the listing. Highly recommend!
+REV00697,Zomato,Biryani,2,negative,2023-09-18,Packaging was broken and everything was spilled. Very bad! Ordered twice already.
+REV00086,Swiggy,Indian,5,positive,2024-09-03,Item was well packed and exactly as shown in the listing. My family loves it.
+REV00435,Zomato,Pizza,5,positive,2025-06-18,Excellent experience overall. The app was smooth and order arrived on time. Very disappointed with this.
+REV00797,Amazon,Sports,4,positive,2022-01-17,5 stars! This is the best purchase I've made this year. Very disappointed with this.
+REV00154,Zomato,Desserts,3,neutral,2025-01-13,"Mixed experience. Some things were good, some were not. Very disappointed with this."
+REV00076,Swiggy,Desserts,5,positive,2024-10-09,10/10 product. Would strongly recommend to everyone. My family loves it.
+REV01043,Amazon,Books,5,positive,2022-11-28,10/10 product. Would strongly recommend to everyone. Will update after more use.
+REV00581,Swiggy,Desserts,3,neutral,2024-05-17,The flavors were okay but nothing to rave about. Will update after more use.
+REV00447,Zomato,Continental,5,positive,2024-07-10,10/10 product. Would strongly recommend to everyone.
+REV00704,Swiggy,Chinese,5,positive,2022-11-23,No complaints at all. Everything was perfect from order to delivery. Very disappointed with this.
+REV00189,Zomato,Burgers,1,negative,2025-06-13,Customer service is non-existent. Absolute zero support. Not worth the money at all.
+REV00272,Zomato,Indian,5,positive,2022-05-18,No complaints at all. Everything was perfect from order to delivery. Highly recommend!
+REV00237,Amazon,Home Appliances,5,positive,2023-01-29,"Good product, solid build quality, very happy with this purchase. Very disappointed with this."
+REV00488,Amazon,Home Appliances,4,positive,2024-10-13,Very impressed with the quality. Packaging was also very good. Overall a good choice.
+REV01160,Amazon,Books,3,neutral,2023-04-29,Middle of the road experience. Nothing special happened. Highly recommend!
+REV00560,Swiggy,Chinese,5,positive,2023-10-17,Very happy with this purchase. The quality is top-notch. Will update after more use.
+REV00118,Amazon,Electronics,5,positive,2024-09-05,"Wow, just wow! The product blew my mind completely. Will update after more use."
+REV00638,Zomato,Pizza,2,negative,2023-04-02,Returned the product but didn't get any refund for weeks.
+REV01128,Zomato,Biryani,1,negative,2023-06-20,The delivery took over 2 hours and the food was ice cold. Could be much better.
+REV00751,Zomato,Chinese,2,negative,2022-07-10,Terrible product. Stopped working after just 2 days of use. Will update after more use.
+REV00513,Amazon,Clothing,5,positive,2024-02-02,Item was well packed and exactly as shown in the listing. My family loves it.
+REV00634,Amazon,Electronics,1,negative,2024-06-28,The product broke on the very first use. Pathetic quality. Very disappointed with this.
+REV00786,Swiggy,Desserts,1,negative,2024-12-08,Way overpriced for the terrible quality they delivered. My family loves it.
+REV01007,Swiggy,Indian,5,positive,2022-08-31,Amazing quality for the price. Will definitely buy again! My family loves it.
+REV00853,Zomato,Burgers,1,negative,2025-06-30,Arrived 90 minutes late. By then the food was in a terrible state. Very disappointed with this.
+REV00127,Amazon,Books,1,negative,2025-01-20,Returned the product but didn't get any refund for weeks. Overall a good choice.
+REV00117,Zomato,Indian,4,neutral,2025-03-21,Product arrived in decent shape. Does what it says.
+REV00474,Swiggy,Chinese,3,neutral,2023-08-29,"Food was average. Some items were tasty, some were not. My family loves it."
+REV00741,Swiggy,Chinese,5,positive,2025-10-12,No complaints at all. Everything was perfect from order to delivery. Highly recommend!
+REV00993,Zomato,Indian,5,positive,2023-06-27,Amazing quality for the price. Will definitely buy again! Will update after more use.
+REV00058,Zomato,Burgers,5,positive,2023-04-30,Item was well packed and exactly as shown in the listing. Highly recommend!
+REV00604,Amazon,Electronics,5,positive,2023-09-03,Received the package on time. Very satisfied with the seller.
+REV00787,Zomato,Biryani,1,negative,2023-04-11,Never received my order. And no refund either. Scammers! Could be much better.
+REV00971,Amazon,Sports,4,positive,2025-02-28,Loved the food quality. Perfect spice level and very fresh. Will update after more use.
+REV00657,Swiggy,Continental,2,negative,2023-02-22,Received a damaged item and customer support was useless. Will update after more use.
+REV00903,Swiggy,Chinese,1,negative,2025-03-31,Extremely salty food. Couldn't eat more than one bite. Very disappointed with this.
+REV00922,Amazon,Home Appliances,1,negative,2025-12-24,The product broke on the very first use. Pathetic quality. Ordered twice already.
+REV00106,Zomato,Continental,1,negative,2023-01-08,The product broke on the very first use. Pathetic quality. Ordered twice already.
+REV00636,Amazon,Books,3,neutral,2022-03-15,The service was fine. The food was neither special nor bad. My family loves it.
+REV00370,Amazon,Clothing,5,positive,2022-08-29,Fantastic service! The delivery executive was very polite. Not worth the money at all.
+REV00269,Zomato,Pizza,1,negative,2022-03-28,Seller is a fraud. Sent a fake product instead of the original. Very disappointed with this.
+REV00656,Zomato,Continental,4,positive,2023-08-10,Very happy with this purchase. The quality is top-notch. Highly recommend!
+REV00047,Amazon,Books,5,positive,2022-05-31,Item was well packed and exactly as shown in the listing. Overall a good choice.
+REV00350,Zomato,Indian,4,neutral,2024-04-17,"Delivery was on time. Food was so-so, not great. Will update after more use."
+REV00774,Swiggy,Continental,2,negative,2024-05-13,Received a damaged item and customer support was useless. Ordered twice already.
+REV00196,Zomato,Chinese,5,positive,2022-05-18,Fantastic service! The delivery executive was very polite. Very disappointed with this.
+REV00103,Zomato,Chinese,2,negative,2025-08-25,Disgusting! The food smelled awful and tasted even worse. Could be much better.
+REV00005,Zomato,Indian,5,positive,2024-02-18,Best biryani I've ever had. Highly recommend this restaurant. Overall a good choice.
+REV00620,Amazon,Electronics,2,negative,2025-09-20,Worst purchase ever. Do not buy this garbage. Highly recommend!
+REV00991,Swiggy,Indian,1,negative,2023-07-21,Found a hair in my food. Absolutely disgusting! Very disappointed with this.
+REV00053,Zomato,Continental,1,negative,2022-04-01,Complete waste of money. The quality is very poor. Will update after more use.
+REV00264,Swiggy,Pizza,4,positive,2022-09-12,Item was well packed and exactly as shown in the listing. Will update after more use.
+REV01093,Zomato,Burgers,4,positive,2024-11-18,"Good product, solid build quality, very happy with this purchase. Overall a good choice."
+REV00444,Zomato,Burgers,4,positive,2025-01-30,Loved the food quality. Perfect spice level and very fresh. Very disappointed with this.
+REV00972,Amazon,Beauty,5,positive,2025-09-06,10/10 product. Would strongly recommend to everyone.
+REV00783,Amazon,Beauty,2,negative,2022-02-28,Disgusting! The food smelled awful and tasted even worse. Highly recommend!
+REV00847,Amazon,Clothing,5,positive,2022-06-19,Loved the food quality. Perfect spice level and very fresh. Ordered twice already.
+REV00692,Zomato,Pizza,5,positive,2025-10-06,"The chicken was perfectly cooked, juicy and full of flavor. Highly recommend!"
+REV00305,Zomato,Burgers,3,neutral,2022-10-23,Food quantity was okay but the quality could be better. Ordered twice already.
+REV00342,Swiggy,Continental,2,negative,2023-05-22,"The movie, the app, the everything — all terrible experience. Not worth the money at all."
+REV00867,Amazon,Beauty,5,positive,2023-04-07,Excellent experience overall. The app was smooth and order arrived on time. Will update after more use.
+REV00314,Swiggy,Chinese,4,positive,2024-10-24,Very impressed with the quality. Packaging was also very good. My family loves it.
+REV00150,Zomato,Biryani,2,negative,2024-10-11,Extremely salty food. Couldn't eat more than one bite. Highly recommend!
+REV00125,Zomato,Indian,5,positive,2023-08-14,"Crispy, hot and fresh! The fries were amazing. Not worth the money at all."
+REV01063,Amazon,Clothing,2,negative,2023-08-06,The order was completely wrong. Got totally different food. Ordered twice already.
+REV00575,Swiggy,Indian,5,positive,2023-05-11,Tastes just like homemade. So glad I found this place!
+REV00698,Swiggy,Indian,1,negative,2022-10-14,Worst purchase ever. Do not buy this garbage. Will update after more use.
+REV00665,Zomato,Desserts,1,negative,2022-03-23,Found a hair in my food. Absolutely disgusting! Highly recommend!
+REV00051,Amazon,Home Appliances,5,positive,2025-05-23,5 stars! This is the best purchase I've made this year. Will update after more use.
+REV00727,Swiggy,Burgers,2,negative,2024-05-21,Product is a complete scam. Nothing works as advertised. Overall a good choice.
+REV00800,Amazon,Home Appliances,5,positive,2022-05-27,Item was well packed and exactly as shown in the listing. My family loves it.
+REV00354,Amazon,Electronics,5,positive,2023-09-04,Outstanding product. Works perfectly and looks great.
+REV01153,Zomato,Pizza,5,positive,2025-08-16,Super fast delivery and the item is exactly as described. Will update after more use.
+REV00143,Zomato,Burgers,4,neutral,2024-04-30,The taste was fine but the presentation was disappointing. Will update after more use.
+REV00471,Amazon,Beauty,4,positive,2023-12-21,5 stars! This is the best purchase I've made this year. My family loves it.
+REV00654,Swiggy,Desserts,2,negative,2023-08-09,Delivery partner was rude and dropped the bag from far. Could be much better.
+REV00400,Amazon,Beauty,5,positive,2023-05-20,"The chicken was perfectly cooked, juicy and full of flavor. Will update after more use."
+REV01154,Zomato,Chinese,5,positive,2022-11-04,Very happy with this purchase. The quality is top-notch. Overall a good choice.
+REV00938,Swiggy,Continental,5,positive,2022-06-10,Fantastic service! The delivery executive was very polite. Could be much better.
+REV00321,Zomato,Biryani,5,positive,2022-10-27,"The chicken was perfectly cooked, juicy and full of flavor. Ordered twice already."
+REV00020,Zomato,Continental,2,negative,2022-08-17,Delivery partner was rude and dropped the bag from far. Ordered twice already.
+REV00685,Amazon,Sports,5,positive,2025-01-22,"The food was absolutely delicious, fresh and hot on arrival! My family loves it."
+REV00036,Zomato,Biryani,1,negative,2022-06-04,Received a damaged item and customer support was useless. Not worth the money at all.
+REV00825,Swiggy,Desserts,1,negative,2024-01-26,Returned the product but didn't get any refund for weeks. My family loves it.
+REV00506,Amazon,Beauty,5,positive,2022-11-15,Super fast delivery and the item is exactly as described. Overall a good choice.
+REV00828,Swiggy,Chinese,1,negative,2025-02-17,The delivery took over 2 hours and the food was ice cold. Highly recommend!
+REV01071,Swiggy,Desserts,4,neutral,2025-03-03,Decent product overall. Would maybe try alternatives next time. Highly recommend!
+REV00408,Amazon,Sports,1,negative,2025-05-01,Very disappointed. The product looks nothing like the photos. Very disappointed with this.
+REV00818,Zomato,Desserts,3,neutral,2025-09-10,Decent product overall. Would maybe try alternatives next time. Overall a good choice.
+REV00538,Zomato,Chinese,4,positive,2025-12-22,Super fast delivery and the item is exactly as described. Overall a good choice.
+REV00759,Zomato,Burgers,5,positive,2024-10-26,Received the package on time. Very satisfied with the seller.
+REV01069,Amazon,Books,4,neutral,2022-11-16,Food quantity was okay but the quality could be better. Ordered twice already.
+REV00893,Amazon,Books,5,positive,2024-02-19,Received the package on time. Very satisfied with the seller. Could be much better.
+REV00039,Zomato,Pizza,3,neutral,2023-08-08,The product works fine but could be improved in some areas. Very disappointed with this.
+REV00176,Zomato,Desserts,5,positive,2022-08-27,Tastes just like homemade. So glad I found this place! My family loves it.
+REV00246,Zomato,Burgers,4,positive,2024-06-14,Item was well packed and exactly as shown in the listing. Highly recommend!
+REV00811,Amazon,Clothing,1,negative,2023-04-22,Extremely salty food. Couldn't eat more than one bite. Very disappointed with this.
+REV01085,Zomato,Continental,2,negative,2024-10-08,Complete waste of money. The quality is very poor. Will update after more use.
+REV01078,Zomato,Indian,1,negative,2023-12-08,Seller is a fraud. Sent a fake product instead of the original. Will update after more use.
+REV00785,Swiggy,Biryani,4,neutral,2025-11-29,"Mixed experience. Some things were good, some were not. Highly recommend!"
+REV01185,Zomato,Pizza,4,positive,2024-02-22,Best biryani I've ever had. Highly recommend this restaurant. Very disappointed with this.
+REV00490,Swiggy,Desserts,5,positive,2023-04-13,5 stars! This is the best purchase I've made this year. Overall a good choice.
+REV00155,Swiggy,Pizza,4,positive,2022-07-05,Super fast delivery and the item is exactly as described. Not worth the money at all.
+REV00639,Swiggy,Burgers,3,neutral,2025-09-07,Works as described but the build feel is a bit cheap. Very disappointed with this.
+REV00663,Amazon,Clothing,5,positive,2024-11-18,"The food was absolutely delicious, fresh and hot on arrival! Highly recommend!"
+REV00854,Amazon,Clothing,5,positive,2022-11-16,Amazing quality for the price. Will definitely buy again! Ordered twice already.
+REV00288,Swiggy,Pizza,4,positive,2022-07-11,Great value for money. Works as advertised. Could be much better.
+REV00626,Swiggy,Chinese,2,negative,2024-09-26,Delivery partner was rude and dropped the bag from far. Very disappointed with this.
+REV01200,Zomato,Indian,1,negative,2024-01-01,Seller is a fraud. Sent a fake product instead of the original. Very disappointed with this.
+REV00686,Swiggy,Continental,4,positive,2022-01-23,10/10 product. Would strongly recommend to everyone. Ordered twice already.
+REV00873,Swiggy,Burgers,3,neutral,2023-01-13,The product works fine but could be improved in some areas. Overall a good choice.
+REV00570,Zomato,Burgers,1,negative,2023-01-20,Packaging was broken and everything was spilled. Very bad! Overall a good choice.
+REV01144,Swiggy,Biryani,4,positive,2025-07-03,Great taste and generous portions. Will order again! Not worth the money at all.
+REV00735,Swiggy,Chinese,5,positive,2023-03-16,Delivery was super quick and the packaging was excellent. Overall a good choice.
+REV00793,Amazon,Beauty,5,positive,2023-08-07,Super fast delivery and the item is exactly as described. Will update after more use.
+REV00018,Amazon,Books,1,negative,2025-05-05,Delivery partner was rude and dropped the bag from far. My family loves it.
+REV00128,Amazon,Electronics,5,positive,2022-12-06,Outstanding product. Works perfectly and looks great.
+REV00323,Swiggy,Pizza,4,positive,2025-11-26,"Wow, just wow! The product blew my mind completely. Could be much better."
+REV00256,Amazon,Beauty,2,negative,2024-11-05,Customer service is non-existent. Absolute zero support. Could be much better.
+REV00944,Swiggy,Indian,1,negative,2022-08-08,The food was burnt on one side and raw on the other. Shocking! My family loves it.
+REV01180,Zomato,Biryani,5,positive,2022-02-12,Very impressed with the quality. Packaging was also very good. Not worth the money at all.
+REV00191,Amazon,Books,3,neutral,2022-05-31,Food quantity was okay but the quality could be better. Very disappointed with this.
+REV00116,Amazon,Beauty,1,negative,2025-11-29,Found a hair in my food. Absolutely disgusting! Will update after more use.
+REV01174,Amazon,Home Appliances,3,neutral,2025-05-18,Food was warm enough. Taste was neither good nor bad. My family loves it.
+REV00889,Swiggy,Desserts,1,negative,2022-10-05,Worst purchase ever. Do not buy this garbage. Could be much better.
+REV00607,Amazon,Sports,2,neutral,2023-03-09,Food quantity was okay but the quality could be better. Highly recommend!
+REV00181,Swiggy,Pizza,2,neutral,2025-08-13,Mediocre experience. Expected more for this price. Could be much better.
+REV00302,Zomato,Desserts,1,negative,2024-04-05,Worst purchase ever. Do not buy this garbage. Ordered twice already.
+REV00497,Zomato,Pizza,2,negative,2023-02-05,Product is a complete scam. Nothing works as advertised. Very disappointed with this.
+REV00349,Swiggy,Indian,1,negative,2022-05-04,Complete waste of money. The quality is very poor. Could be much better.
+REV01036,Amazon,Beauty,2,negative,2023-04-16,Returned the product but didn't get any refund for weeks. Could be much better.
+REV00983,Zomato,Burgers,3,neutral,2023-11-18,Product arrived in decent shape. Does what it says. Will update after more use.
+REV00745,Amazon,Books,4,positive,2025-03-23,Great taste and generous portions. Will order again! My family loves it.
+REV01152,Amazon,Sports,4,positive,2024-06-10,Tastes just like homemade. So glad I found this place! Will update after more use.
+REV00518,Zomato,Chinese,4,positive,2025-06-11,"The food was absolutely delicious, fresh and hot on arrival!"
+REV00373,Swiggy,Biryani,1,negative,2022-07-21,The order was completely wrong. Got totally different food. Very disappointed with this.
+REV00046,Zomato,Chinese,1,negative,2024-07-25,Packaging was broken and everything was spilled. Very bad! Will update after more use.
+REV00477,Swiggy,Desserts,5,positive,2024-08-22,"The chicken was perfectly cooked, juicy and full of flavor. Highly recommend!"
+REV00158,Swiggy,Biryani,4,positive,2022-12-15,Very impressed with the quality. Packaging was also very good. Highly recommend!
+REV01047,Swiggy,Burgers,4,positive,2025-11-03,Item was well packed and exactly as shown in the listing. Not worth the money at all.
+REV00172,Amazon,Clothing,4,neutral,2025-02-15,Acceptable but I've had better from other sellers. My family loves it.
+REV00017,Amazon,Electronics,3,neutral,2022-11-10,It's alright. Not as expected but manageable. Overall a good choice.
+REV00512,Zomato,Indian,1,negative,2022-09-06,Never received my order. And no refund either. Scammers! Highly recommend!
+REV00049,Swiggy,Pizza,5,positive,2022-01-17,Tastes just like homemade. So glad I found this place! Could be much better.
+REV00192,Amazon,Clothing,3,neutral,2025-07-02,Works as described but the build feel is a bit cheap. Will update after more use.
+REV00547,Swiggy,Burgers,5,positive,2025-09-14,Great value for money. Works as advertised. Will update after more use.
+REV00516,Zomato,Indian,2,neutral,2025-03-21,Works as described but the build feel is a bit cheap. Highly recommend!
+REV00978,Amazon,Sports,2,negative,2025-07-29,Seller is a fraud. Sent a fake product instead of the original. Very disappointed with this.
+REV00939,Swiggy,Chinese,3,neutral,2025-12-01,Decent product overall. Would maybe try alternatives next time. Overall a good choice.
+REV00829,Swiggy,Burgers,2,negative,2025-10-13,Seller is a fraud. Sent a fake product instead of the original. Ordered twice already.
+REV00984,Swiggy,Biryani,4,positive,2025-10-14,5 stars! This is the best purchase I've made this year. Very disappointed with this.
+REV00481,Amazon,Home Appliances,1,negative,2024-11-13,The food was burnt on one side and raw on the other. Shocking! Overall a good choice.
+REV01129,Amazon,Books,1,negative,2024-02-25,Never received my order. And no refund either. Scammers! Overall a good choice.
+REV00284,Zomato,Biryani,5,positive,2023-12-07,Fantastic service! The delivery executive was very polite. Could be much better.
+REV01030,Amazon,Electronics,5,positive,2023-04-12,Very happy with this purchase. The quality is top-notch. Ordered twice already.
+REV00798,Amazon,Home Appliances,4,positive,2023-10-01,Outstanding product. Works perfectly and looks great. My family loves it.
+REV00940,Swiggy,Desserts,1,negative,2024-08-21,Disgusting! The food smelled awful and tasted even worse. Very disappointed with this.
+REV00226,Amazon,Beauty,4,positive,2024-02-27,Loved the food quality. Perfect spice level and very fresh. Could be much better.
+REV00027,Zomato,Chinese,5,positive,2025-11-13,Received the package on time. Very satisfied with the seller. Could be much better.
+REV00283,Swiggy,Biryani,5,positive,2025-03-23,"Crispy, hot and fresh! The fries were amazing. My family loves it."
+REV01150,Zomato,Desserts,2,negative,2025-06-12,Product is a complete scam. Nothing works as advertised. Could be much better.
+REV00438,Amazon,Beauty,5,positive,2024-05-16,Excellent experience overall. The app was smooth and order arrived on time. My family loves it.
+REV01168,Swiggy,Biryani,3,neutral,2025-08-01,Middle of the road experience. Nothing special happened. Will update after more use.
+REV00365,Swiggy,Chinese,1,negative,2022-04-29,Horrible taste. Nothing like what was shown in the pictures. Very disappointed with this.
+REV00230,Swiggy,Burgers,5,positive,2024-01-16,Tastes just like homemade. So glad I found this place! Highly recommend!
+REV00038,Zomato,Biryani,2,neutral,2024-04-01,Decent for the price but room for improvement. Not worth the money at all.
+REV00670,Swiggy,Burgers,5,positive,2025-02-23,Best biryani I've ever had. Highly recommend this restaurant. Very disappointed with this.
+REV00750,Amazon,Home Appliances,5,positive,2023-12-25,Delivery was super quick and the packaging was excellent. My family loves it.
+REV01181,Swiggy,Chinese,3,neutral,2024-08-05,"Mixed experience. Some things were good, some were not. Overall a good choice."
+REV00375,Swiggy,Chinese,5,positive,2023-06-19,"The chicken was perfectly cooked, juicy and full of flavor."
+REV00470,Swiggy,Desserts,2,negative,2023-03-21,Received a damaged item and customer support was useless. Very disappointed with this.
+REV00883,Zomato,Burgers,2,negative,2024-12-11,The product broke on the very first use. Pathetic quality. Could be much better.
+REV01182,Amazon,Books,5,positive,2025-05-14,"Crispy, hot and fresh! The fries were amazing. My family loves it."
+REV00688,Swiggy,Desserts,1,negative,2023-03-10,Very disappointed. The product looks nothing like the photos. Ordered twice already.
+REV00033,Amazon,Sports,1,negative,2023-12-27,Seller is a fraud. Sent a fake product instead of the original. My family loves it.
+REV01011,Amazon,Home Appliances,1,negative,2024-07-23,Terrible product. Stopped working after just 2 days of use. Overall a good choice.
+REV01176,Swiggy,Chinese,2,negative,2024-03-31,The food was cold and stale when it arrived. Totally unacceptable.
+REV00195,Zomato,Biryani,5,positive,2022-07-14,Delivery was super quick and the packaging was excellent. My family loves it.
+REV01106,Zomato,Desserts,4,positive,2022-07-17,Great taste and generous portions. Will order again!
+REV01114,Zomato,Indian,5,positive,2022-08-14,5 stars! This is the best purchase I've made this year. Very disappointed with this.
+REV01064,Amazon,Sports,2,negative,2023-08-08,The food was cold and stale when it arrived. Totally unacceptable. Could be much better.
+REV00504,Amazon,Clothing,1,negative,2023-06-19,Complete waste of money. The quality is very poor. Will update after more use.
+REV00916,Amazon,Clothing,2,negative,2023-11-24,The food was burnt on one side and raw on the other. Shocking! Ordered twice already.
+REV00977,Amazon,Clothing,1,negative,2024-10-12,Complete waste of money. The quality is very poor. Highly recommend!
+REV01183,Amazon,Beauty,5,positive,2022-01-29,Super fast delivery and the item is exactly as described. Overall a good choice.
+REV01088,Amazon,Electronics,5,positive,2024-10-06,"Crispy, hot and fresh! The fries were amazing. Will update after more use."
+REV00801,Zomato,Continental,1,negative,2022-01-26,The food was cold and stale when it arrived. Totally unacceptable. My family loves it.
+REV00580,Amazon,Clothing,2,neutral,2025-05-30,Product arrived in decent shape. Does what it says. Will update after more use.
+REV00161,Swiggy,Burgers,2,negative,2022-06-01,Disgusting! The food smelled awful and tasted even worse. Highly recommend!
+REV00681,Zomato,Desserts,3,neutral,2024-06-05,Nothing extraordinary. Just a regular experience. My family loves it.
+REV01198,Swiggy,Desserts,1,negative,2022-04-19,Received a damaged item and customer support was useless. Very disappointed with this.
+REV00163,Zomato,Continental,4,positive,2022-08-07,Loved the food quality. Perfect spice level and very fresh. Very disappointed with this.
+REV00822,Swiggy,Desserts,4,positive,2025-09-09,Best biryani I've ever had. Highly recommend this restaurant. My family loves it.
+REV00706,Amazon,Home Appliances,5,positive,2023-04-25,Item was well packed and exactly as shown in the listing. Ordered twice already.
+REV01009,Amazon,Sports,2,negative,2024-09-28,Horrible taste. Nothing like what was shown in the pictures. Highly recommend!
+REV00878,Swiggy,Continental,5,positive,2025-12-29,Item was well packed and exactly as shown in the listing. Very disappointed with this.
+REV00896,Amazon,Electronics,1,negative,2023-02-20,Disgusting! The food smelled awful and tasted even worse. Highly recommend!
+REV00914,Amazon,Home Appliances,4,positive,2024-11-03,Loved the food quality. Perfect spice level and very fresh. Will update after more use.
+REV01199,Amazon,Books,4,positive,2022-12-01,Amazing quality for the price. Will definitely buy again! Will update after more use.
+REV00153,Swiggy,Biryani,1,negative,2023-11-04,Found a hair in my food. Absolutely disgusting! Overall a good choice.
+REV00979,Zomato,Indian,5,positive,2022-08-26,"The chicken was perfectly cooked, juicy and full of flavor. Will update after more use."
+REV01003,Zomato,Desserts,4,positive,2023-09-05,Great value for money. Works as advertised. Not worth the money at all.
+REV00510,Swiggy,Chinese,2,neutral,2024-03-22,Works as described but the build feel is a bit cheap. Ordered twice already.
+REV00112,Amazon,Electronics,1,negative,2023-10-09,Found a hair in my food. Absolutely disgusting! Not worth the money at all.
+REV00227,Swiggy,Indian,2,negative,2025-03-16,Never received my order. And no refund either. Scammers! Very disappointed with this.
+REV00986,Amazon,Sports,1,negative,2022-05-20,The food was cold and stale when it arrived. Totally unacceptable.
+REV00852,Amazon,Home Appliances,1,negative,2025-05-01,Seller is a fraud. Sent a fake product instead of the original. Ordered twice already.
+REV00104,Zomato,Biryani,5,positive,2023-10-23,Great value for money. Works as advertised. Will update after more use.
+REV00422,Amazon,Home Appliances,2,neutral,2024-11-11,Product is functional but not premium by any means. Not worth the money at all.
+REV00420,Amazon,Sports,1,negative,2022-12-07,Very disappointed. The product looks nothing like the photos. Ordered twice already.
+REV00625,Amazon,Beauty,2,negative,2024-01-05,Way overpriced for the terrible quality they delivered. My family loves it.
+REV00587,Swiggy,Biryani,2,negative,2025-10-26,Horrible taste. Nothing like what was shown in the pictures. Ordered twice already.
+REV01061,Swiggy,Desserts,1,negative,2025-01-28,Packaging was broken and everything was spilled. Very bad! Could be much better.
+REV00920,Zomato,Continental,1,negative,2022-05-16,The delivery took over 2 hours and the food was ice cold. Ordered twice already.
+REV00673,Swiggy,Desserts,3,neutral,2022-02-20,Would have been better with slightly better packaging. Will update after more use.
+REV00120,Amazon,Clothing,5,positive,2025-02-16,"The chicken was perfectly cooked, juicy and full of flavor. Overall a good choice."
+REV00054,Zomato,Chinese,4,positive,2025-02-03,Item was well packed and exactly as shown in the listing. Very disappointed with this.
+REV00152,Amazon,Books,4,positive,2022-06-03,Tastes just like homemade. So glad I found this place! Highly recommend!
+REV00404,Swiggy,Indian,4,positive,2024-02-28,Absolutely loved this product! Exceeded all my expectations. Ordered twice already.
+REV01189,Amazon,Sports,3,neutral,2025-12-21,Food was warm enough. Taste was neither good nor bad. My family loves it.
+REV00208,Swiggy,Indian,5,positive,2024-06-26,Item was well packed and exactly as shown in the listing. Will update after more use.
+REV01135,Amazon,Home Appliances,5,positive,2025-04-10,Absolutely loved this product! Exceeded all my expectations. Ordered twice already.
+REV00659,Swiggy,Continental,1,negative,2025-11-20,Never received my order. And no refund either. Scammers! Will update after more use.
+REV01097,Zomato,Biryani,4,positive,2022-11-30,Received the package on time. Very satisfied with the seller. Ordered twice already.
+REV00233,Swiggy,Continental,5,positive,2023-11-14,Very happy with this purchase. The quality is top-notch. Highly recommend!
+REV00009,Swiggy,Continental,3,neutral,2022-11-30,Food quantity was okay but the quality could be better. Ordered twice already.
+REV00160,Swiggy,Pizza,3,neutral,2023-06-07,It's alright. Not as expected but manageable. Very disappointed with this.
+REV00037,Swiggy,Burgers,4,positive,2022-07-11,Great value for money. Works as advertised.
+REV00453,Swiggy,Pizza,4,positive,2025-10-16,Outstanding product. Works perfectly and looks great. Not worth the money at all.
+REV00652,Swiggy,Desserts,4,positive,2024-10-28,Very happy with this purchase. The quality is top-notch. Highly recommend!
+REV00254,Swiggy,Chinese,2,negative,2023-08-20,Terrible product. Stopped working after just 2 days of use. Highly recommend!
+REV00304,Swiggy,Pizza,5,positive,2022-09-21,Excellent experience overall. The app was smooth and order arrived on time. Overall a good choice.
+REV00897,Zomato,Biryani,4,positive,2025-01-18,Item was well packed and exactly as shown in the listing. Very disappointed with this.
+REV01049,Amazon,Home Appliances,5,positive,2022-12-25,"Good product, solid build quality, very happy with this purchase. Ordered twice already."
+REV00881,Amazon,Clothing,2,negative,2025-06-17,The delivery took over 2 hours and the food was ice cold. Very disappointed with this.
+REV00572,Swiggy,Burgers,1,negative,2022-10-05,The food was cold and stale when it arrived. Totally unacceptable. My family loves it.
+REV00624,Amazon,Electronics,4,positive,2025-04-24,Love the flavor! This has become my go-to comfort food. My family loves it.
+REV01145,Swiggy,Indian,2,negative,2023-07-14,Very disappointed. The product looks nothing like the photos. Ordered twice already.
+REV01031,Amazon,Books,5,positive,2022-05-31,Love the flavor! This has become my go-to comfort food. Not worth the money at all.
+REV01146,Amazon,Home Appliances,5,positive,2025-08-27,Received the package on time. Very satisfied with the seller. Overall a good choice.
+REV00263,Amazon,Sports,5,positive,2023-08-09,Great value for money. Works as advertised. Not worth the money at all.
+REV00611,Amazon,Clothing,5,positive,2023-09-09,Great taste and generous portions. Will order again!
+REV00298,Amazon,Home Appliances,3,neutral,2023-01-24,Product is functional but not premium by any means. Ordered twice already.
+REV00990,Amazon,Books,4,neutral,2022-08-16,"Delivery was on time. Food was so-so, not great. Highly recommend!"
+REV00415,Swiggy,Biryani,1,negative,2024-06-16,Never received my order. And no refund either. Scammers! Not worth the money at all.
+REV00151,Swiggy,Pizza,3,neutral,2024-06-20,It's alright. Not as expected but manageable. Overall a good choice.
+REV00946,Swiggy,Chinese,2,negative,2024-02-26,Horrible taste. Nothing like what was shown in the pictures. Very disappointed with this.
+REV00473,Zomato,Continental,2,negative,2025-09-10,The food was burnt on one side and raw on the other. Shocking!
+REV00953,Zomato,Burgers,1,negative,2023-02-05,Disgusting! The food smelled awful and tasted even worse. Very disappointed with this.
+REV00988,Amazon,Beauty,1,negative,2022-04-27,Found a hair in my food. Absolutely disgusting! Overall a good choice.
+REV00779,Amazon,Clothing,5,positive,2024-03-24,Love the flavor! This has become my go-to comfort food. Highly recommend!
+REV00641,Zomato,Burgers,5,positive,2024-02-05,10/10 product. Would strongly recommend to everyone. Could be much better.
+REV01190,Amazon,Beauty,4,positive,2022-04-17,No complaints at all. Everything was perfect from order to delivery.
+REV01143,Swiggy,Continental,4,positive,2025-01-02,Very impressed with the quality. Packaging was also very good. Overall a good choice.
+REV00551,Swiggy,Pizza,5,positive,2025-08-07,Excellent experience overall. The app was smooth and order arrived on time. Overall a good choice.
+REV00640,Swiggy,Chinese,4,positive,2023-12-01,Tastes just like homemade. So glad I found this place!
+REV00936,Amazon,Electronics,5,positive,2022-04-21,"Wow, just wow! The product blew my mind completely. My family loves it."
+REV00929,Amazon,Home Appliances,4,neutral,2022-04-05,Middle of the road experience. Nothing special happened. Very disappointed with this.
+REV00489,Swiggy,Chinese,1,negative,2022-11-19,Worst pizza I've ever had. Dough was raw from the inside. Ordered twice already.
+REV00820,Zomato,Indian,1,negative,2024-12-07,Packaging was broken and everything was spilled. Very bad! Overall a good choice.
+REV00711,Zomato,Continental,3,neutral,2024-09-24,Decent for the price but room for improvement. Ordered twice already.
+REV01081,Amazon,Home Appliances,2,neutral,2024-12-11,Got what I paid for. Quality matches the price I guess. Very disappointed with this.
+REV00148,Zomato,Biryani,5,positive,2023-01-22,Great value for money. Works as advertised. Ordered twice already.
+REV00147,Amazon,Books,1,negative,2024-09-18,Delivery partner was rude and dropped the bag from far. Could be much better.
+REV01175,Zomato,Desserts,2,negative,2022-04-17,Never received my order. And no refund either. Scammers!
+REV00963,Zomato,Biryani,5,positive,2023-04-08,Received the package on time. Very satisfied with the seller. Ordered twice already.
+REV00346,Zomato,Indian,5,positive,2024-07-01,Best biryani I've ever had. Highly recommend this restaurant. Could be much better.
+REV00403,Zomato,Burgers,4,positive,2024-11-15,Super fast delivery and the item is exactly as described. Could be much better.
+REV00932,Amazon,Clothing,1,negative,2022-08-23,Delivery partner was rude and dropped the bag from far. Will update after more use.
+REV00955,Swiggy,Biryani,2,neutral,2023-08-26,Not impressed but not terrible either. Just average. Highly recommend!
+REV01125,Swiggy,Indian,4,positive,2024-10-17,Outstanding product. Works perfectly and looks great. Overall a good choice.
+REV00660,Swiggy,Pizza,1,negative,2022-04-21,The product broke on the very first use. Pathetic quality. Could be much better.
+REV00464,Swiggy,Indian,2,negative,2023-03-14,Seller is a fraud. Sent a fake product instead of the original.
+REV00187,Amazon,Clothing,5,positive,2022-04-18,Delivery was super quick and the packaging was excellent. Will update after more use.
+REV00609,Swiggy,Indian,3,neutral,2025-09-17,Nothing extraordinary. Just a regular experience.
+REV00144,Swiggy,Chinese,3,neutral,2023-01-26,The taste was fine but the presentation was disappointing. My family loves it.
+REV00752,Amazon,Beauty,5,positive,2024-09-02,Love the flavor! This has become my go-to comfort food. Highly recommend!
+REV00982,Zomato,Burgers,5,positive,2022-07-19,Tastes just like homemade. So glad I found this place!
+REV00198,Swiggy,Pizza,2,negative,2024-04-21,Way overpriced for the terrible quality they delivered. Overall a good choice.
+REV00884,Swiggy,Indian,2,negative,2024-07-24,Extremely salty food. Couldn't eat more than one bite. Very disappointed with this.
+REV00280,Swiggy,Desserts,5,positive,2024-01-11,Loved the food quality. Perfect spice level and very fresh. Highly recommend!
+REV00294,Zomato,Biryani,4,positive,2023-02-22,Amazing quality for the price. Will definitely buy again! Very disappointed with this.
+REV01089,Zomato,Burgers,3,neutral,2025-03-04,"Delivery was on time. Food was so-so, not great. Very disappointed with this."
+REV00401,Zomato,Desserts,1,negative,2024-03-08,Very disappointed. The product looks nothing like the photos. Highly recommend!
+REV00123,Amazon,Clothing,2,negative,2023-06-26,The food was burnt on one side and raw on the other. Shocking! Not worth the money at all.
+REV00203,Zomato,Indian,2,negative,2023-07-14,Delivery partner was rude and dropped the bag from far. Highly recommend!
+REV00836,Amazon,Clothing,4,positive,2022-02-14,Loved the food quality. Perfect spice level and very fresh. Ordered twice already.
+REV00247,Zomato,Indian,5,positive,2022-04-20,Delivery was super quick and the packaging was excellent. My family loves it.
+REV01140,Swiggy,Biryani,1,negative,2023-10-11,Seller is a fraud. Sent a fake product instead of the original.
+REV00385,Swiggy,Desserts,3,neutral,2023-01-03,It's okay. Nothing special but does the job. My family loves it.
+REV00855,Amazon,Clothing,1,negative,2023-08-13,Very disappointed. The product looks nothing like the photos. Highly recommend!
+REV00220,Amazon,Home Appliances,1,negative,2025-08-14,Worst purchase ever. Do not buy this garbage. Ordered twice already.
+REV00642,Zomato,Chinese,2,negative,2022-08-08,Complete waste of money. The quality is very poor. My family loves it.
+REV00002,Zomato,Indian,1,negative,2022-07-11,Never received my order. And no refund either. Scammers!
+REV00113,Swiggy,Chinese,5,positive,2023-03-20,Great value for money. Works as advertised. Not worth the money at all.
+REV00699,Swiggy,Indian,3,neutral,2022-02-08,"Food was average. Some items were tasty, some were not. Overall a good choice."
+REV00952,Swiggy,Continental,5,positive,2022-10-28,Outstanding product. Works perfectly and looks great.
+REV01079,Amazon,Clothing,5,positive,2024-05-01,Tastes just like homemade. So glad I found this place! Very disappointed with this.
+REV00442,Swiggy,Continental,1,negative,2024-09-27,Delivery partner was rude and dropped the bag from far. Very disappointed with this.
+REV00664,Swiggy,Pizza,5,positive,2022-11-26,Amazing quality for the price. Will definitely buy again! Highly recommend!
+REV01197,Zomato,Chinese,3,neutral,2024-10-03,Nothing extraordinary. Just a regular experience. Ordered twice already.
+REV00318,Swiggy,Pizza,2,negative,2023-01-29,Product is a complete scam. Nothing works as advertised. Very disappointed with this.
+REV00649,Zomato,Continental,5,positive,2022-10-10,Fantastic service! The delivery executive was very polite. Highly recommend!
+REV00710,Amazon,Beauty,1,negative,2024-02-10,Worst pizza I've ever had. Dough was raw from the inside. Will update after more use.
+REV00973,Zomato,Biryani,3,neutral,2022-09-17,The service was fine. The food was neither special nor bad. Overall a good choice.
+REV00628,Swiggy,Burgers,1,negative,2025-10-03,Delivery partner was rude and dropped the bag from far. Not worth the money at all.
+REV00633,Zomato,Indian,1,negative,2023-04-02,Packaging was broken and everything was spilled. Very bad! Could be much better.
+REV01172,Amazon,Home Appliances,5,positive,2024-10-03,Item was well packed and exactly as shown in the listing. Overall a good choice.
+REV01107,Amazon,Clothing,1,negative,2022-03-01,The food was burnt on one side and raw on the other. Shocking! Ordered twice already.
+REV00796,Amazon,Electronics,1,negative,2022-02-15,The delivery took over 2 hours and the food was ice cold. Could be much better.
+REV00646,Swiggy,Biryani,2,negative,2022-12-29,Never received my order. And no refund either. Scammers! Could be much better.
+REV01013,Amazon,Books,1,negative,2025-10-21,Horrible taste. Nothing like what was shown in the pictures. Ordered twice already.
+REV00557,Swiggy,Indian,5,positive,2025-03-15,Excellent experience overall. The app was smooth and order arrived on time. Could be much better.
+REV00682,Swiggy,Indian,5,positive,2025-04-14,Excellent experience overall. The app was smooth and order arrived on time. Overall a good choice.
+REV00578,Amazon,Clothing,5,positive,2025-10-19,"The food was absolutely delicious, fresh and hot on arrival! Not worth the money at all."
+REV00525,Swiggy,Indian,4,positive,2025-03-25,Delivery was super quick and the packaging was excellent. Not worth the money at all.
+REV01060,Zomato,Burgers,3,neutral,2025-09-04,Order was slightly delayed but food was alright. Ordered twice already.
+REV00541,Amazon,Books,5,positive,2024-02-15,Love the flavor! This has become my go-to comfort food. Very disappointed with this.
+REV00749,Zomato,Indian,2,negative,2022-05-19,Way overpriced for the terrible quality they delivered. Will update after more use.
+REV01110,Amazon,Sports,2,neutral,2023-08-01,Decent product overall. Would maybe try alternatives next time. Not worth the money at all.
+REV00485,Amazon,Sports,1,negative,2025-12-07,Product is a complete scam. Nothing works as advertised. Highly recommend!
+REV00096,Amazon,Books,1,negative,2024-01-26,Worst purchase ever. Do not buy this garbage. Will update after more use.
+REV01021,Amazon,Beauty,5,positive,2025-05-06,Tastes just like homemade. So glad I found this place!
+REV00564,Swiggy,Pizza,2,negative,2023-06-25,Worst purchase ever. Do not buy this garbage. My family loves it.
+REV00743,Amazon,Beauty,5,positive,2025-12-12,Excellent experience overall. The app was smooth and order arrived on time.
+REV00864,Amazon,Beauty,1,negative,2023-11-15,Extremely salty food. Couldn't eat more than one bite. Will update after more use.
+REV00892,Zomato,Indian,5,positive,2025-12-19,"Crispy, hot and fresh! The fries were amazing. Could be much better."
+REV01039,Swiggy,Indian,2,negative,2022-04-01,Way overpriced for the terrible quality they delivered. My family loves it.
+REV00207,Swiggy,Burgers,5,positive,2022-04-18,Fantastic service! The delivery executive was very polite. Overall a good choice.
+REV00393,Zomato,Burgers,5,positive,2023-01-03,Super fast delivery and the item is exactly as described.
+REV00795,Swiggy,Biryani,5,positive,2025-12-05,5 stars! This is the best purchase I've made this year. Will update after more use.
+REV00871,Swiggy,Desserts,4,positive,2022-10-10,10/10 product. Would strongly recommend to everyone. Not worth the money at all.
+REV00398,Zomato,Continental,2,negative,2022-03-02,The food was burnt on one side and raw on the other. Shocking! Ordered twice already.
+REV00767,Swiggy,Burgers,4,positive,2023-10-09,"Wow, just wow! The product blew my mind completely. Could be much better."
+REV01100,Zomato,Pizza,5,positive,2025-11-16,Outstanding product. Works perfectly and looks great. Will update after more use.
+REV01029,Swiggy,Burgers,5,positive,2024-05-08,Delivery was super quick and the packaging was excellent. Ordered twice already.
+REV00643,Zomato,Chinese,4,positive,2023-01-26,Best biryani I've ever had. Highly recommend this restaurant. Very disappointed with this.
+REV00613,Swiggy,Indian,3,neutral,2022-08-22,Would have been better with slightly better packaging. Will update after more use.
+REV00961,Amazon,Electronics,2,negative,2025-08-08,"The movie, the app, the everything — all terrible experience. Highly recommend!"
+REV00726,Amazon,Books,3,neutral,2023-12-19,Food was warm enough. Taste was neither good nor bad. My family loves it.
+REV00684,Zomato,Biryani,4,positive,2025-09-15,Super fast delivery and the item is exactly as described. My family loves it.
+REV00099,Swiggy,Continental,2,neutral,2022-07-28,"Food was average. Some items were tasty, some were not. Not worth the money at all."
+REV00805,Swiggy,Burgers,2,negative,2023-06-03,Complete waste of money. The quality is very poor. Overall a good choice.
+REV00407,Zomato,Pizza,4,positive,2023-09-06,Outstanding product. Works perfectly and looks great. My family loves it.
+REV00503,Swiggy,Chinese,3,neutral,2022-06-03,"Delivery was on time. Food was so-so, not great. My family loves it."
+REV01072,Amazon,Sports,1,negative,2022-03-24,Disgusting! The food smelled awful and tasted even worse. Very disappointed with this.
+REV01057,Amazon,Beauty,5,positive,2023-08-24,Outstanding product. Works perfectly and looks great.
+REV00930,Zomato,Indian,5,positive,2025-08-01,Item was well packed and exactly as shown in the listing. Will update after more use.
+REV00780,Zomato,Burgers,5,positive,2022-02-23,Super fast delivery and the item is exactly as described.
+REV00201,Swiggy,Pizza,1,negative,2023-07-25,Worst purchase ever. Do not buy this garbage. Overall a good choice.
+REV00135,Swiggy,Indian,1,negative,2023-11-07,Seller is a fraud. Sent a fake product instead of the original. Highly recommend!
+REV01052,Zomato,Pizza,5,positive,2022-05-10,Great taste and generous portions. Will order again!
+REV00041,Swiggy,Desserts,5,positive,2022-05-05,Best biryani I've ever had. Highly recommend this restaurant. Could be much better.
+REV01018,Zomato,Indian,1,negative,2022-01-15,Arrived 90 minutes late. By then the food was in a terrible state.
+REV00231,Zomato,Desserts,5,positive,2025-07-16,Loved the food quality. Perfect spice level and very fresh.
+REV00379,Swiggy,Burgers,4,positive,2023-01-12,"Good product, solid build quality, very happy with this purchase. Very disappointed with this."
+REV00289,Swiggy,Chinese,1,negative,2025-09-11,The food was cold and stale when it arrived. Totally unacceptable. Highly recommend!
+REV00419,Zomato,Desserts,5,positive,2025-05-01,Amazing quality for the price. Will definitely buy again! Could be much better.
+REV00392,Swiggy,Burgers,3,neutral,2023-07-10,Decent for the price but room for improvement. Very disappointed with this.
+REV00593,Amazon,Home Appliances,3,neutral,2023-09-21,Works as described but the build feel is a bit cheap. Not worth the money at all.
+REV01087,Swiggy,Desserts,3,neutral,2024-05-04,Product arrived in decent shape. Does what it says. Will update after more use.
+REV00648,Zomato,Biryani,1,negative,2023-07-15,Packaging was broken and everything was spilled. Very bad! Not worth the money at all.
+REV00521,Zomato,Continental,2,negative,2024-09-09,Never received my order. And no refund either. Scammers! Ordered twice already.
+REV00065,Zomato,Burgers,5,positive,2022-08-25,Love the flavor! This has become my go-to comfort food. Could be much better.
+REV00015,Zomato,Chinese,3,neutral,2025-02-23,Product arrived in decent shape. Does what it says. Not worth the money at all.
+REV01065,Swiggy,Desserts,5,positive,2022-11-27,"The food was absolutely delicious, fresh and hot on arrival! Highly recommend!"
+REV00493,Zomato,Pizza,5,positive,2025-03-16,Very impressed with the quality. Packaging was also very good. Overall a good choice.
+REV00380,Amazon,Beauty,4,neutral,2022-06-02,"Mixed experience. Some things were good, some were not."
+REV00188,Swiggy,Indian,5,positive,2024-07-07,Very impressed with the quality. Packaging was also very good. Very disappointed with this.
+REV00764,Zomato,Pizza,1,negative,2023-01-04,Worst pizza I've ever had. Dough was raw from the inside. Very disappointed with this.
+REV00217,Swiggy,Pizza,5,positive,2024-06-13,No complaints at all. Everything was perfect from order to delivery. Overall a good choice.
+REV00792,Amazon,Clothing,5,positive,2024-02-14,Great value for money. Works as advertised. My family loves it.
+REV01077,Swiggy,Pizza,2,negative,2022-10-30,Customer service is non-existent. Absolute zero support. My family loves it.
+REV00879,Zomato,Biryani,2,negative,2022-12-02,The food was cold and stale when it arrived. Totally unacceptable. Highly recommend!
+REV00338,Zomato,Desserts,1,negative,2022-05-08,Terrible product. Stopped working after just 2 days of use. Not worth the money at all.
+REV00720,Amazon,Beauty,2,negative,2023-06-26,Way overpriced for the terrible quality they delivered. Could be much better.
+REV00296,Amazon,Home Appliances,5,positive,2024-08-13,"Good product, solid build quality, very happy with this purchase. Not worth the money at all."
+REV01017,Amazon,Clothing,5,positive,2025-07-18,Delivery was super quick and the packaging was excellent. Overall a good choice.
+REV00456,Zomato,Pizza,1,negative,2022-07-10,Worst pizza I've ever had. Dough was raw from the inside.
+REV00816,Zomato,Burgers,5,positive,2024-07-18,Outstanding product. Works perfectly and looks great. Ordered twice already.
+REV00270,Zomato,Pizza,2,negative,2022-06-03,Worst pizza I've ever had. Dough was raw from the inside.
+REV00996,Amazon,Beauty,1,negative,2024-07-02,Worst purchase ever. Do not buy this garbage. Will update after more use.
+REV00202,Swiggy,Burgers,2,negative,2022-02-23,Seller is a fraud. Sent a fake product instead of the original. Could be much better.
+REV00162,Zomato,Desserts,5,positive,2025-11-14,"Good product, solid build quality, very happy with this purchase. My family loves it."
+REV00730,Swiggy,Continental,2,negative,2024-04-17,The product broke on the very first use. Pathetic quality. Ordered twice already.
+REV00402,Zomato,Biryani,4,positive,2023-07-07,5 stars! This is the best purchase I've made this year. Ordered twice already.
+REV00703,Zomato,Burgers,1,negative,2025-09-19,Customer service is non-existent. Absolute zero support.
+REV01130,Amazon,Electronics,1,negative,2025-02-14,The product broke on the very first use. Pathetic quality. Highly recommend!
+REV00566,Swiggy,Biryani,5,positive,2024-03-21,No complaints at all. Everything was perfect from order to delivery.
+REV01022,Amazon,Sports,5,positive,2023-12-14,"Wow, just wow! The product blew my mind completely. Will update after more use."
+REV01026,Amazon,Sports,5,positive,2023-08-07,Very happy with this purchase. The quality is top-notch. Ordered twice already.
+REV01105,Swiggy,Burgers,5,positive,2024-08-18,Amazing quality for the price. Will definitely buy again!
+REV00206,Zomato,Pizza,1,negative,2024-01-28,The delivery took over 2 hours and the food was ice cold. Highly recommend!
+REV00035,Amazon,Clothing,5,positive,2023-01-25,Fantastic service! The delivery executive was very polite. Not worth the money at all.
+REV00776,Swiggy,Pizza,5,positive,2023-07-10,Fantastic service! The delivery executive was very polite. My family loves it.
+REV00509,Swiggy,Desserts,5,positive,2023-03-17,Very happy with this purchase. The quality is top-notch.
+REV01184,Zomato,Continental,2,negative,2022-08-31,Seller is a fraud. Sent a fake product instead of the original. Very disappointed with this.
+REV00092,Zomato,Pizza,5,positive,2024-02-16,Excellent experience overall. The app was smooth and order arrived on time. Ordered twice already.
+REV00898,Amazon,Clothing,4,neutral,2024-07-18,Got what I paid for. Quality matches the price I guess. Very disappointed with this.
+REV00565,Zomato,Indian,5,positive,2023-07-19,"Wow, just wow! The product blew my mind completely. Highly recommend!"
+REV00777,Zomato,Desserts,4,neutral,2024-07-11,Decent product overall. Would maybe try alternatives next time. Could be much better.
+REV00242,Zomato,Continental,5,positive,2024-01-24,Delivery was super quick and the packaging was excellent. Not worth the money at all.
+REV00014,Zomato,Chinese,4,neutral,2024-03-21,Not impressed but not terrible either. Just average. Very disappointed with this.
+REV00316,Swiggy,Biryani,5,positive,2024-02-11,Best biryani I've ever had. Highly recommend this restaurant. Could be much better.
+REV00601,Amazon,Beauty,5,positive,2024-02-04,"Wow, just wow! The product blew my mind completely. Not worth the money at all."
+REV00388,Swiggy,Continental,1,negative,2025-08-31,Extremely salty food. Couldn't eat more than one bite. Overall a good choice.
+REV00167,Swiggy,Continental,1,negative,2025-07-10,The food was burnt on one side and raw on the other. Shocking! Highly recommend!
+REV00841,Amazon,Beauty,5,positive,2022-03-18,"Crispy, hot and fresh! The fries were amazing. Will update after more use."
+REV00021,Swiggy,Desserts,5,positive,2024-10-22,"The food was absolutely delicious, fresh and hot on arrival! Will update after more use."
+REV00647,Amazon,Electronics,2,negative,2025-09-08,The food was cold and stale when it arrived. Totally unacceptable. My family loves it.
+REV01155,Zomato,Biryani,5,positive,2025-02-20,Delivery was super quick and the packaging was excellent. Very disappointed with this.
+REV00832,Zomato,Continental,4,neutral,2024-04-24,"Mixed experience. Some things were good, some were not. Ordered twice already."
+REV00563,Swiggy,Burgers,4,positive,2022-08-05,Outstanding product. Works perfectly and looks great. Overall a good choice.
+REV01171,Amazon,Clothing,3,neutral,2025-07-17,Decent product overall. Would maybe try alternatives next time. Very disappointed with this.
+REV00687,Amazon,Electronics,1,negative,2025-01-05,Never received my order. And no refund either. Scammers! My family loves it.
+REV00958,Zomato,Burgers,5,positive,2025-09-18,Excellent experience overall. The app was smooth and order arrived on time. Not worth the money at all.
+REV00190,Zomato,Desserts,5,positive,2022-05-05,Very happy with this purchase. The quality is top-notch.
+REV00976,Swiggy,Chinese,4,positive,2023-01-06,"The food was absolutely delicious, fresh and hot on arrival! Very disappointed with this."
+REV00700,Swiggy,Burgers,2,neutral,2025-04-23,Product arrived in decent shape. Does what it says. My family loves it.
+REV00511,Amazon,Electronics,1,negative,2024-07-15,Delivery partner was rude and dropped the bag from far. My family loves it.
+REV01083,Zomato,Chinese,5,positive,2024-08-04,10/10 product. Would strongly recommend to everyone. Could be much better.
+REV00475,Amazon,Clothing,1,negative,2025-07-30,Horrible taste. Nothing like what was shown in the pictures. Very disappointed with this.
+REV00857,Amazon,Beauty,5,positive,2023-06-14,Love the flavor! This has become my go-to comfort food. Could be much better.
+REV00748,Amazon,Home Appliances,5,positive,2025-10-27,Excellent experience overall. The app was smooth and order arrived on time. Very disappointed with this.
+REV00253,Zomato,Indian,5,positive,2024-10-20,10/10 product. Would strongly recommend to everyone. Overall a good choice.
+REV00022,Swiggy,Pizza,2,negative,2025-06-01,Customer service is non-existent. Absolute zero support. Could be much better.
+REV00460,Zomato,Indian,1,negative,2022-11-20,Complete waste of money. The quality is very poor. Overall a good choice.
+REV00277,Swiggy,Pizza,1,negative,2023-02-14,Extremely salty food. Couldn't eat more than one bite. Very disappointed with this.
+REV00956,Amazon,Sports,5,positive,2024-01-06,Great value for money. Works as advertised. Could be much better.
+REV00386,Amazon,Clothing,5,positive,2023-06-01,5 stars! This is the best purchase I've made this year. Could be much better.
+REV00806,Amazon,Sports,1,negative,2022-08-20,The order was completely wrong. Got totally different food. Not worth the money at all.
+REV00344,Amazon,Electronics,2,negative,2024-11-01,Very disappointed. The product looks nothing like the photos. Could be much better.
+REV00770,Swiggy,Burgers,1,negative,2023-12-06,Found a hair in my food. Absolutely disgusting! Will update after more use.
+REV00131,Zomato,Desserts,4,positive,2025-05-21,No complaints at all. Everything was perfect from order to delivery. Ordered twice already.
+REV00872,Amazon,Books,5,positive,2025-09-05,"Crispy, hot and fresh! The fries were amazing. Highly recommend!"
+REV01124,Amazon,Home Appliances,5,positive,2024-10-15,Item was well packed and exactly as shown in the listing. Very disappointed with this.
+REV00088,Amazon,Books,2,negative,2023-07-13,Never received my order. And no refund either. Scammers! Not worth the money at all.
+REV00331,Zomato,Pizza,2,negative,2025-08-06,Worst purchase ever. Do not buy this garbage. Very disappointed with this.
+REV00467,Amazon,Electronics,4,positive,2024-01-23,Excellent experience overall. The app was smooth and order arrived on time. Ordered twice already.
+REV00122,Swiggy,Biryani,1,negative,2025-03-10,Disgusting! The food smelled awful and tasted even worse. Will update after more use.
+REV01045,Zomato,Desserts,2,neutral,2025-12-12,Food quantity was okay but the quality could be better. Very disappointed with this.
+REV01096,Swiggy,Burgers,1,negative,2022-10-22,Extremely salty food. Couldn't eat more than one bite. Ordered twice already.
+REV01131,Swiggy,Chinese,1,negative,2024-06-01,Arrived 90 minutes late. By then the food was in a terrible state. Very disappointed with this.
+REV00861,Swiggy,Pizza,5,positive,2022-02-09,Great taste and generous portions. Will order again! Overall a good choice.
+REV01127,Swiggy,Continental,2,negative,2024-10-05,Worst purchase ever. Do not buy this garbage. Could be much better.
